@@ -14,9 +14,9 @@
 > sistemas sem autorizacao previa e expresso por escrito e ilegal. O autor
 > nao se responsabiliza pelo uso indevido deste material.
 
-Colecao de wordlists e ferramentas de brute force focadas no contexto brasileiro.
+Colecao de wordlists e ferramentas de brute force focadas no contexto brasileiro e internacional.
 WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
-**57.000+ entradas unicas**, incluindo mega wordlist deduplicada com fontes externas integradas.
+**3.000.000+ entradas** entre listas especializadas. Inclui John the Ripper, darkc0de, Metasploit, SecLists, Probable-Wordlists e fontes BR.
 
 ---
 
@@ -24,9 +24,12 @@ WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
 
 | Arquivo | Entradas |
 |---------|----------|
-| `misto/top10k-brasil.txt` | **57.934** (mega deduplicada) |
-| `misto/senhas-externas-br.txt` | 37.972 (knxbrenno, andreyoshimura, wpshield, SecLists-PT) |
-| `misto/top-globais.txt` | 12.242 (SecLists top-10k, 500worst, pwdb1k, rockyou-5k) |
+| `misto/kali-mega.txt` | **3.181.965** (John the Ripper + darkc0de + Metasploit) |
+| `misto/top10k-brasil.txt` | **65.770** (mega BR deduplicada) |
+| `misto/senhas-externas-br.txt` | 37.972 (fontes BR externas) |
+| `misto/top-globais.txt` | 12.242 (SecLists top-10k + RockYou-5k) |
+| `servicos/metasploit-defaults.txt` | 8.231 (Metasploit service defaults) |
+| `wifi/wpa-probable.txt` | 4.925 (WPA8+ chars, alta probabilidade) |
 | `wifi/nomes-com-ano.txt` | 5.776 |
 | `wifi/brasil-senhas-comuns.txt` | 691 |
 | `wifi/religiao-brasil.txt` | 484 |
@@ -72,7 +75,8 @@ ghost-wordlists/
 ├── corporativo/                 # Senhas corporativas / ambientes empresa
 │   └── senhas-corporativas.txt     # Mudar@, Acesso@, mes+ano, TI, RH (459)
 ├── misto/                       # Compilados e cross-categorias
-│   ├── top10k-brasil.txt           # MEGA wordlist deduplicada 57k+ (57.934)
+│   ├── kali-mega.txt               # MEGA Kali: John + darkc0de + MSF (3.181.965)
+│   ├── top10k-brasil.txt           # Mega BR deduplicada (65.770)
 │   ├── senhas-externas-br.txt      # Fontes BR externas integradas (37.972)
 │   ├── top-globais.txt             # SecLists top + RockYou-5k (12.242)
 │   ├── top-br-combinado.txt        # Combinado de top categorias (413)
@@ -81,7 +85,10 @@ ghost-wordlists/
 │   └── senhas-numericas-br.txt     # Numeros, PINs, anos, CEPs (686)
 ├── servicos/                    # SSH, FTP, Telnet, SMTP, etc.
 │   ├── usuarios-unix.txt           # Usuarios padrao em Linux/Unix
+│   ├── metasploit-defaults.txt     # Defaults de servicos - Metasploit (8.231)
 │   └── senhas-servicos.txt         # Senhas padrao de servicos e hardware (283)
+├── wifi/ (adicional)
+│   └── wpa-probable.txt            # WPA passwords 8-63 chars alta prob (4.925)
 ├── web/                         # Aplicacoes web / CMS
 │   ├── usuarios-web.txt            # Usuarios de CMS, paineis, intranet
 │   └── senhas-webapp.txt           # Senhas fracas em ambientes web brasileiros (261)

@@ -1,0 +1,8231 @@
+ 
+ 0
+ 0000
+ 00000000
+ 1
+ 10023
+ 1064
+ 11111
+ 123
+ 1234
+ 12345
+ 12345678
+ 1234567890
+ 1234admin
+ 1322222
+ 166816
+ 1988
+ 24Banc81
+ 2501
+ 256256
+ 2580
+ 266344
+ 3098z
+ 3477
+ 3ascotel
+ 4getme2
+ 57gbzb
+ 589589
+ 589721
+ 8111
+ 9999
+ ?award
+ A.M.I
+ ABCD
+ ACCESS
+ ACCORD
+ ADTRAN
+ AM
+ AMI
+ AMI!SW
+ AMI.KEY
+ AMI.KEZ
+ AMI?SW
+ AMIAMI
+ AMIDECOD
+ AMIPSWD
+ AMISETUP
+ AMI_SW
+ AMI~
+ ANYCOM
+ AWARD SW
+ AWARD?SW
+ AWARD_PW
+ AWARD_SW
+ Admin
+ Administrative
+ Advance
+ Award
+ BIGO
+ BIOS
+ BIOSPASS
+ BRIDGE
+ Babylon
+ Biostar
+ CMOSPWD
+ CONCAT
+ CTX_123
+ Cable-docsis
+ Cisco
+ Cisco router
+ Col2ogro2
+ Compaq
+ Compleri
+ Congress
+ Craftr4
+ Crystal
+ Daewuu
+ Daytec
+ Dell
+ ESSEX or IPC
+ FOOBAR
+ FORCE 
+ Fireport
+ GWrv
+ Guest
+ HELGA-S
+ HEWITT RAND
+ HLT
+ Helpdesk
+ IBM
+ ILMI
+ Intel
+ MASTER
+ MBIU0
+ MCUrv
+ MagiMFP
+ Master
+ MiniAP
+ NTCIP
+ NetICs
+ OOOOOOOO
+ PASSWORD
+ Password
+ Polrty
+ Posterie
+ Public
+ Q54arwms
+ QDI
+ R1QTPS
+ RM
+ SER
+ SKY_FOX
+ SMDR
+ SUPER
+ SWITCHES_SW
+ SW_AWARD
+ SYSTEM
+ SZYX
+ Serial Num
+ SnuFG5
+ Spacve
+ Super
+ Sxyz
+ Symbol
+ TANDBERG
+ TENmanUFactOryPOWER
+ TTPTHA
+ Telecom
+ Tiny
+ Toshiba
+ TzqF
+ User
+ Vextrex
+ ZAAADA
+ Zenith
+ _Cisco
+ aLLy
+ aPAf
+ aammii
+ access
+ admin
+ adminttd
+ adtran
+ alfarome
+ ascend
+ atc123
+ award.sw
+ award_?
+ award_ps
+ awkward
+ babbit
+ backdoor
+ bell9
+ biodata
+ biosstar
+ biostar
+ c
+ cascade
+ cc
+ central
+ changeit
+ cisco
+ ciscofw
+ citel
+ cmaker
+ comcomcom
+ condo
+ connect
+ console
+ damin
+ default
+ default.password
+ djonet
+ dn_04rjc
+ ducati900ss
+ efmukl
+ enter
+ epicrouter
+ familymacintosh
+ foolproof
+ g6PJ
+ gandalf
+ guardone
+ h6BB
+ hello
+ help
+ hewlpack
+ hs7mwxkk
+ intermec
+ inuvik49
+ iolan
+ isolation
+ iwill
+ j09F
+ j256
+ j262
+ j322
+ j64
+ jannie
+ joh316
+ komprie
+ ksdjfg934t
+ l1
+ l2
+ laflaf
+ lantronix
+ last
+ leaves
+ lesarotl
+ letmein
+ lkw peter
+ lkwpeter
+ m1link
+ mMmM
+ manager
+ medion
+ merlin
+ mysweex
+ netadmin
+ nokai
+ nokia
+ nz0u4bbe
+ password
+ pento
+ private
+ prost
+ protection
+ public
+ raidzone
+ rainbow
+ riverhead
+ ro
+ rw
+ rwa
+ s!a@m#n$p%c
+ sanfran
+ secret
+ secure
+ sertafu
+ setup
+ shiva
+ sitecom
+ sldkj754
+ sma
+ smcadmin
+ snake
+ snmp-Trap
+ sp99dd
+ speedxess
+ spooml
+ star
+ symantec
+ sysadm
+ system
+ t0ch20x
+ t0ch88
+ tatercounter2000
+ teX1
+ technolgi
+ telos
+ tiny
+ toshy99
+ touchpwd=
+ uboot
+ wg
+ wodj
+ x40rocks
+ x6zynd56
+ xdfk9874t3
+ xljlbj
+ xmux
+ xo11nE
+ xyzall
+ xyzzy
+ year2000
+ zbaaaca
+ zebra
+ zeosx
+ zjaaadc
+!1qwerty
+!@#QWE123qwe
+!Q2w#E4r
+!Q2w3e4r
+!QAZ2wsx
+!QAZ2wsx#EDC4rfv
+!QAZ@WSX3edc4rfv
+!admin
+!ishtar
+!manage
+!qaz@wsx
+!qazXsw2
+!qwe123
+!root
+!root 
+!root !ishtar
+!root blank
+!root none
+# Credenciais padrao de servicos - Metasploit
+$ALOC$ 
+$SRV
+$SRV $SRV
+$chwarzepumpe
+$rfmngr$
+$secure$
+$system 
+&nbsp; ANYCOM
+&nbsp; ILMI
+(any 3 chars) cascade
+(random
+(unknown)
+*
+*3noguru
+*password
+--------
+0
+0 0
+00
+000
+0000
+00000
+000000
+0000000
+00000000
+0000000000
+007007
+00850085
+01
+010101
+010203
+012012
+012345
+0123456
+0123456789
+012465
+02
+03
+0392a0
+04051995
+0407056
+06061977
+06071992
+080808
+082208
+09090
+098765
+0987654321
+0P3N
+0RACLE
+0RACLE38
+0RACLE39
+0RACLE8
+0RACLE8I
+0RACLE9
+0okmnji9
+1
+1 manager
+1 operator
+1 syslib
+1.79 Multi
+10
+10023
+101010
+10101010
+10111011
+10118
+10135
+10143
+10144
+102030
+1020304050
+1064
+11
+111
+1111
+11111
+11111 x-admin
+111111
+1111111
+11111111
+11111111 11111111
+1111111111
+11112222
+1111aa
+111222
+112233
+11223344
+116572
+12
+12.x 
+1212
+121212
+12121212
+12201220
+123
+123.com
+123123
+123123123
+123132123
+123258
+123321
+1234
+1234 1234
+12341
+12341234
+123412345
+12345
+12345 12345
+123454321
+123456
+1234567
+12345678
+123456789
+1234567890
+12345678900987654321
+1234567890987654321
+1234567890qwertyuiop
+12345678910
+1234567898
+12345678987
+123456789876
+1234567898765
+12345678987654
+123456789876543
+1234567898765432
+12345678987654321
+1234567899
+12345678998
+123456789987
+1234567899876
+12345678998765
+123456789987654
+1234567899876543
+12345678998765432
+123456789987654321
+12345678abc
+123456a
+1234ABCD
+1234Qwer
+1234admin
+1234qwer!
+1234qwer`
+123654
+123654789
+123789
+123abc
+123cztery
+123mudar
+123qwe
+123qwe!@#
+123qweASD
+123qweasdzxc
+123qwerty
+123zxc123
+124578
+125401
+12qw!@QW
+12qw34er
+12qwaszx
+13
+130590
+1313
+131313
+1322222
+1340hd
+134679
+14
+14111982
+141414
+142536
+143143
+14344
+1435254
+1456
+146688
+146890
+147147
+147258
+147258369
+147852
+147852369
+147896325
+15
+1502
+1502 1502
+151515
+1548644
+159357
+159357**
+159753
+159753456
+16
+161616
+1660359
+166816
+17
+17161716
+171717
+17201720
+17841784
+18
+18140815
+18140815 18140815
+181818
+18364 
+187cop
+19
+192.168.1.1 60020 @dsl_xilno
+19491949
+19501950
+19511951
+1969
+19750407
+198624
+1986673
+1988
+19920706
+1997
+1a2s3d4f
+1keeper
+1lkjhgfdsa
+1q2w3e
+1q2w3e4R
+1q2w3e4r
+1q2w3e4r..
+1q2w3e4r5t
+1q2w3e4r5t6y
+1qa@WS3ed
+1qaz!QAZ
+1qaz"WSX
+1qaz0okm
+1qaz2wsx
+1qaz2wsx3edc
+1qaz@WSX
+1qazcde3
+1qazxcvb
+1qazxsw2
+1qsx2waz
+1qsx2wdc
+2
+2 maintain
+2 manager
+2 operator
+2 syslib
+20
+2000
+2010
+201036
+20112011
+20132013
+202020
+20552055
+20562056
+20572057
+20682068
+2071184
+20742074
+21
+21101981
+2112
+21121477
+212121
+21241036
+22
+22071979
+222101
+2222
+22222
+222222
+22222222
+22222222 22222222
+22242224
+225225
+23041979
+23051979
+232323
+23712371
+237723
+23skidoo
+24041975
+240653C9467E45
+242424
+24343
+246810
+2468369
+24Banc81
+2501
+2505463
+252525
+256256
+2580
+2594561
+266344
+266344 266344
+2718281828
+282828
+29082908
+2WSXcder
+2bornot2b
+2brnot2b
+2cute4u
+2keeper
+2read
+3
+30 games
+3098z
+311147
+31994
+31994 31994
+321
+3333
+333333
+33333333
+3425235
+343guiltyspark
+3477
+3800326
+38483848
+3Com
+3ascotel
+3com
+3comcso RIP000
+3ep5w2u
+3l3ctr1c
+3stones
+3ware
+4
+420420
+43046721
+4321
+4444
+44444
+444444
+44444444
+456
+456123
+456789
+4636421
+493749
+4Dgifts
+4Dgifts 
+4Dgifts 4Dgifts
+4changes
+4getme2
+4rfv$RFV
+4rfv%TGB
+4rfvbhu8
+4tas
+4tugboat
+5
+5 games
+50cent
+5150
+5201314
+54321
+545981
+5555
+55555
+555555
+55555555
+5583134
+56565656
+5678
+56789
+570912
+5777364
+57gbzb
+5832277
+584620
+589589
+5897
+589721
+6
+6.x 
+60020
+6071992
+6213744
+643558
+654321
+657
+666001
+6666
+666666
+666666 666666
+66666666
+6922374
+6969
+696969
+69696969
+7
+7 maintain
+735841
+741852
+741852963
+749174
+74k&^*nh#$
+753951
+7654321
+7772000
+7777
+777777
+7777777
+77777777
+788111
+789456
+789456123
+7ujMko0admin
+7ujMko0vizxv
+8
+8111
+8253
+832531
+8429
+852456
+8675309
+874365
+87654321
+8888
+888888
+888888 888888
+88888888
+8RttoTriz
+9
+9225481
+951753
+963258
+9641
+987654
+987654321
+9876543210
+9999
+99999
+999999
+99999999
+999999999
+9ijn7ygv
+?award
+@WSX1qaz
+A.M.I
+ABCD
+ACCESS
+ACCORD
+ADAMS WOOD
+ADLDEMO
+ADLDEMO ADLDEMO
+ADMIN
+ADMIN 
+ADMIN ADMIN
+ADMIN JETSPEED
+ADMIN PASSWORD
+ADMIN WELCOME
+ADMIN admin
+ADMIN changeme
+ADMIN welcome
+ADMINISTRATOR
+ADMINISTRATOR ADMINISTRATOR
+ADMINISTRATOR SENTINEL
+ADMINISTRATOR admin
+ADMN admn
+ADSL expert03
+ADSUSER ch4ngeme
+ADS_AGENT ch4ngeme
+ADTRAN
+ADVMAIL 
+ADVMAIL HP
+ADVMAIL HPOFFICE DATA
+AIROPLANE
+ALLIN1
+ALLIN1 ALLIN1
+ALLIN1MAIL
+ALLIN1MAIL ALLIN1MAIL
+ALLINONE
+ALLINONE ALLINONE
+AM
+AMI
+AMI!SW
+AMI.KEY
+AMI.KEZ
+AMI?SW
+AMIAMI
+AMIDECOD
+AMIPSWD
+AMISETUP
+AMI_SW
+AMI~
+ANDY SWORDFISH
+ANS#150
+ANYCOM
+AP
+AP AP
+AP2SVP 
+APC
+APL2PP 
+APPLSYS FND
+APPLSYSPUB FNDPUB
+APPS
+APPS APPS
+APPS_MRC
+APPS_MRC APPS_MRC
+APPUSER
+APPUSER APPUSER
+AQ
+AQ AQ
+AQDEMO
+AQDEMO AQDEMO
+AQJAVA
+AQJAVA AQJAVA
+AQUSER
+AQUSER AQUSER
+AR#Admin#
+ARAdmin AR#Admin#
+ARCHIVIST
+ARCHIVIST 
+ARCHIVIST ARCHIVIST
+AUDIOUSER
+AUDIOUSER AUDIOUSER
+AURORA$JIS$UTILITY$ 
+AURORA$ORB$UNAUTHENTICATED INVALID
+AUTOLOG1 
+AWARD
+AWARD?SW
+AWARD_PW
+AWARD_SW
+AWARD_SW 
+Admin
+Admin 
+Admin 1234
+Admin 123456
+Admin 123qwe
+Admin 1988
+Admin 3Com
+Admin Admin
+Admin Barricade
+Admin ImageFolio
+Admin SECRET123
+Admin admin
+Admin cclfb
+Admin password
+Admin shs
+Admin1
+Admin1 Admin1
+Admin123
+Admin5 4tugboat
+Admin@123
+Administrative
+Administrator
+Administrator 
+Administrator 0000
+Administrator 1234
+Administrator 12345678
+Administrator 19750407
+Administrator 3ware
+Administrator Administrator
+Administrator Gateway
+Administrator Partner
+Administrator adaptec
+Administrator admin
+Administrator administrator
+Administrator changeme
+Administrator ganteng
+Administrator ggdaseuaimhrke
+Administrator letmein
+Administrator manage
+Administrator nicecti
+Administrator password
+Administrator pilou
+Administrator smcadmin
+Administrator storageserver
+Administrator vision2
+AdvWebadmin advcomm500349
+Advance
+Airaya
+Airaya Airaya
+AitbISP4eCiG
+Aloysius
+Alphanetworks wrgg15_di524
+Anonymous 
+Any
+Any 
+Any 12345
+Any Any
+Any Local User Local User password
+Asante
+Ascend
+Asd123
+Asdfg123
+Aurora01
+Avalanche
+Award
+BACKUP
+BACKUP 
+BACKUP BACKUP
+BASE
+BATCH
+BATCH 
+BATCH BATCH
+BATCH1 
+BATCH2 
+BC4J
+BC4J BC4J
+BIGO
+BIOS
+BIOSPASS
+BLAKE PAPER
+BRIDGE
+BRIO_ADMIN
+BRIO_ADMIN BRIO_ADMIN
+Babylon
+Barricade
+Berman
+Bhosda Lund
+Biostar
+Bobo hello
+Boromir1
+C0de
+CALVIN
+CAROLIAN
+CATALOG
+CATALOG CATALOG
+CCC
+CCC 
+CDEMO82
+CDEMO82 CDEMO82
+CDEMOCOR
+CDEMOCOR CDEMOCOR
+CDEMORID
+CDEMORID CDEMORID
+CDEMOUCB
+CDEMOUCB CDEMOUCB
+CENTRA
+CENTRA CENTRA
+CHANGE_ON_INSTALL
+CHEY_ARCHSVR
+CHEY_ARCHSVR 
+CHEY_ARCHSVR CHEY_ARCHSVR
+CICSUSER CISSUS
+CIDS
+CIDS CIDS
+CIS
+CIS CIS
+CISCO
+CISCO15 otbu+1
+CISINFO
+CISINFO CISINFO
+CISSUS
+CLARK CLOTH
+CLERK
+CLOTH
+CMOSPWD
+CMSBATCH
+CMSBATCH 
+CMSBATCH CMSBATCH
+CMSUSER 
+CNAS
+COGNOS
+COMPANY
+COMPANY COMPANY
+COMPAQ
+COMPIERE
+COMPIERE COMPIERE
+CONCAT
+CONV
+CPNUC 
+CPRM 
+CQSCHEMAUSER PASSWORD
+CR52401
+CSG SESAME
+CSMIG
+CSMIG CSMIG
+CSPUSER 
+CTB_ADMIN sap123
+CTXDEMO
+CTXDEMO CTXDEMO
+CTXSYS
+CTXSYS 
+CTXSYS CHANGE_ON_INSTALL
+CTXSYS CTXSYS
+CTXSYS UNKNOWN
+CTX_123
+CVIEW 
+Cable-docsis
+Chester1
+Chocolate19
+Christmas
+Cisco
+Cisco Cisco
+Coco hello
+Col2ogro2
+Compaq
+Compleri
+Congress
+Craft crftpw
+Craftr4
+Crocodile1
+Crowd password
+Crystal
+Crystal0!
+D-Link
+D-Link D-Link
+DATAMOVE 
+DBA SQL
+DBDCCIC
+DBDCCICS DBDCCIC
+DBI MUMBLEFRATZ
+DBSNMP
+DBSNMP DBSNMP
+DCL
+DCL DCL
+DDIC 19920706
+DDIC Welcome01
+DECMAIL
+DECMAIL DECMAIL
+DECNET
+DECNET DECNET
+DECNET NONPRIV
+DEFAULT
+DEFAULT DEFAULT
+DEFAULT USER
+DEMO
+DEMO DEMO
+DEMO1 
+DEMO2 
+DEMO3 
+DEMO4 
+DEMO8
+DEMO8 DEMO8
+DEMO9
+DEMO9 DEMO9
+DES
+DES DES
+DESQUETOP 
+DEV2000_DEMOS
+DEV2000_DEMOS DEV2000_DEMOS
+DEVELOPER ch4ngeme
+DIGITAL
+DIP
+DIP DIP
+DIRECT 
+DIRMAINT 
+DISC
+DISCOVERER_ADMIN
+DISCOVERER_ADMIN DISCOVERER_ADMIN
+DISKCNT 
+DOCSIS_APP 3Com
+DS 
+DSA 
+DSGATEWAY
+DSGATEWAY DSGATEWAY
+DSL
+DSL DSL
+DSSYS
+DSSYS DSSYS
+DTA TJM
+D_SYSPW
+D_SYSTPW
+Daewuu
+Daytec
+Dell
+Demo 
+Demo password
+Developer isdev
+Dragonsoul
+Draytek 1234
+EARLYWATCH SUPPORT
+EAdmin 
+EJSADMIN
+EJSADMIN EJSADMIN
+EMP
+EMP EMP
+EREP 
+ESSEX
+ESSEX 
+ESTORE
+ESTOREUSER ESTORE
+ESubscriber 
+EVENT
+EVENT EVENT
+EXFSYS
+EXFSYS EXFSYS
+EZsetup 
+Ektron
+End User 123
+End User 7936
+Everything
+Exabyte
+Ezsetup 
+FAX
+FAX 
+FAX FAX
+FAXUSER
+FAXUSER 
+FAXUSER FAXUSER
+FAXWORKS
+FAXWORKS 
+FAXWORKS FAXWORKS
+FIELD
+FIELD 
+FIELD DIGITAL
+FIELD FIELD
+FIELD HPONLY
+FIELD HPP187 SYS
+FIELD HPWORD PUB
+FIELD LOTUS
+FIELD MANAGER
+FIELD MGR
+FIELD SERVICE
+FIELD SUPPORT
+FIELD TEST
+FIELD.SUPPORT
+FINANCE
+FINANCE FINANCE
+FND
+FND FND
+FNDPUB
+FOOBAR
+FORCE
+FORSE
+FORSE FORSE
+FROSTY SNOWMAN
+FSFADMIN 
+FSFTASK1 
+FSFTASK2 
+Factory 56789
+Fireport
+Flamenco
+Flo hello
+GATEWAY
+GATEWAY 
+GATEWAY GATEWAY
+GCS 
+GEN1 gen1
+GEN2 gen2
+GL
+GL GL
+GPFD
+GPFD GPFD
+GPLD
+GPLD GPLD
+GUEST
+GUEST 
+GUEST GUEST
+GUEST GUESTGUE
+GUEST GUESTGUEST
+GUEST TSEUG
+GUESTGUE
+GUESTGUEST
+GWrv
+Gateway
+Geardog
+Gearguy Geardog
+George123
+GlobalAdmin
+GlobalAdmin GlobalAdmin
+Guest
+Guest 
+Guest Guest
+Guest blank
+HARRIS
+HCPARK
+HCPARK HCPARK
+HELGA-S
+HELLO FIELD.SUPPORT
+HELLO MANAGER.SYS
+HELLO MGR.SYS
+HELLO OP.OPERATOR
+HELP
+HELP HELP
+HELPDESK
+HELPDESK HELPDESK
+HEWITT
+HLT
+HLW
+HLW HLW
+HOST
+HOST HOST
+HP
+HPDESK
+HPLASER
+HPLASER 
+HPLASER HPLASER
+HPOFFICE
+HPONLY
+HPP187
+HPP189
+HPP196
+HPSupport badg3r5
+HPWORD
+HR
+HR HR
+HTTP
+HTTP HTTP
+Haemorrhage
+Hamster
+Helpdesk
+IBM
+IBMUSER SYS1
+IDMS 
+IDMSSE 
+IIPS 
+ILMI
+IMAGEUSER
+IMAGEUSER IMAGEUSER
+IMEDIA
+IMEDIA IMEDIA
+INFO
+INFO INFO
+INGRES
+INGRES INGRES
+INSTANCE
+INTERNAT
+INTX3
+INVALID
+IP
+IPC 
+IPFSERV 
+IPMI
+ISPMODE
+ISPVM 
+IS_$hostname
+IS_$hostname IS_$hostname
+ITF3000
+IVPM1 
+IVPM2 
+ImageFolio
+Impatiens
+Insecure
+Intel
+Intermec
+IntraStack Asante
+IntraSwitch Asante
+Israel123
+J2EE_ADMIN ch4ngeme
+JDE
+JDE JDE
+JETSPEED
+JMUSER
+JMUSER JMUSER
+JONES STEEL
+JWARD AIROPLANE
+Jetform 
+Joe hello
+Joel1234
+KNIGHT
+Kia123
+Kitz
+L2LDEMO
+L2LDEMO L2LDEMO
+LASER
+LASER 
+LASER LASER
+LASERWRITER
+LASERWRITER 
+LASERWRITER LASERWRITER
+LBACSYS
+LBACSYS LBACSYS
+LDAP_Anonymous LdapPassword_1
+LIBRARIAN SHELVES
+LIBRARY 
+LINK
+LINK LINK
+LOTUS
+LR-ISDN
+LR-ISDN LR-ISDN
+LRISDN
+LRISDN LRISDN
+LUCENT01 UI-PSWD-01
+LUCENT02 UI-PSWD-02
+Lasvegas1
+LdapPassword_1
+Letmein1
+Letmein2
+Local
+LonDon
+Lund
+M
+M1cha3l
+MAIL
+MAIL 
+MAIL HPOFFICE
+MAIL MAIL
+MAIL MPE
+MAIL REMOTE
+MAIL TELESUP
+MAILER
+MAILER MAILER
+MAINT
+MAINT 
+MAINT MAINT
+MANAG3R
+MANAGER
+MANAGER COGNOS
+MANAGER HPOFFICE
+MANAGER ITF3000
+MANAGER SECURITY
+MANAGER SYS
+MANAGER TCH
+MANAGER TELESUP
+MANAGER.SYS
+MASTER
+MASTER PASSWORD
+MBIU0
+MBMANAGER
+MBMANAGER MBMANAGER
+MBWATCH
+MBWATCH MBWATCH
+MCUrv
+MCUser MCUser1
+MCUser1
+MD110 help
+MDDEMO
+MDDEMO MDDEMO
+MDDEMO_CLERK CLERK
+MDDEMO_MGR MGR
+MDSYS
+MDSYS MDSYS
+MDaemon MServer
+MFG
+MFG MFG
+MGE VESOFT
+MGR
+MGR CAROLIAN
+MGR CCC
+MGR CNAS
+MGR COGNOS
+MGR CONV
+MGR HPDESK
+MGR HPOFFICE
+MGR HPONLY
+MGR HPP187
+MGR HPP189
+MGR HPP196
+MGR INTX3
+MGR ITF3000
+MGR NETBASE
+MGR REGO
+MGR RJE
+MGR ROBELLE
+MGR SECURITY
+MGR SYS
+MGR TELESUP
+MGR VESOFT
+MGR WORD
+MGR XLSERVER
+MGR.SYS
+MGWUSER
+MGWUSER MGWUSER
+MICRO RSX
+MIGRATE
+MIGRATE MIGRATE
+MILLER
+MILLER MILLER
+MKO)9ijn
+MMO2
+MMO2 MMO2
+MODTEST YES
+MOESERV 
+MOREAU
+MOREAU MOREAU
+MPE
+MSHOME
+MSHOME MSHOME
+MServer
+MTRPW
+MTSSYS
+MTSSYS MTSSYS
+MTS_PASSWORD
+MTS_USER MTS_PASSWORD
+MUMBLEFRATZ
+MXAGENT
+MXAGENT MXAGENT
+MagiMFP
+Manager
+Manager 
+Manager 657
+Manager Admin
+Manager Manager
+Manager friend
+MargaretThatcheris110%SEXY
+Master
+Mau'dib
+Mau?dib
+Mau’dib
+MiniAP
+Moe hello
+Multi
+NAMES
+NAMES NAMES
+NAU
+NAU NAU
+NETBASE
+NETCON
+NETCON NETCON
+NETFRAME
+NETMGR
+NETMGR NETMGR
+NETNONPRIV
+NETNONPRIV NETNONPRIV
+NETOP 
+NETPRIV
+NETPRIV NETPRIV
+NETSERVER
+NETSERVER NETSERVER
+NETWORK
+NETWORK NETWORK
+NEVIEW 
+NEWINGRES
+NEWINGRES NEWINGRES
+NEWS
+NEWS NEWS
+NF
+NFI
+NICONEX
+NICONEX NICONEX
+NOC
+NOC NOC
+NONPRIV
+NSA nsa
+NTCIP
+NULL
+NeXT
+Nemesis1
+NetCache
+NetICs
+NetLinx password
+NetSeq
+NetSurvibox
+NetVCR
+Newpass1
+Nice-admin nicecti
+NoGaH$@!
+None xyzzy
+OAS_PUBLIC
+OAS_PUBLIC OAS_PUBLIC
+OCITEST
+OCITEST OCITEST
+OCS
+ODM
+ODM ODM
+ODM_MTR MTRPW
+ODS
+ODS ODS
+ODSCOMMON
+ODSCOMMON ODSCOMMON
+OE
+OE OE
+OEM
+OEMADM
+OEMADM OEMADM
+OEMREP
+OEMREP OEMREP
+OEM_TEMP
+OLAPDBA
+OLAPDBA OLAPDBA
+OLAPSVR INSTANCE
+OLAPSYS MANAGER
+OLTSEP 
+OMWB_EMULATION ORACLE
+OO
+OO OO
+OOOOOOOO
+OP.OPERATOR
+OP1 
+OPENSPIRIT
+OPENSPIRIT OPENSPIRIT
+OPER
+OPER OPER
+OPERATIONS
+OPERATIONS OPERATIONS
+OPERATNS
+OPERATNS 
+OPERATNS OPERATNS
+OPERATOR
+OPERATOR 
+OPERATOR COGNOS
+OPERATOR DISC
+OPERATOR SUPPORT
+OPERATOR SYS
+OPERATOR SYSTEM
+OPERVAX
+OPERVAX OPERVAX
+ORACACHE (random password)
+ORACL3
+ORACLE
+ORACLE8
+ORACLE8I
+ORACLE9
+ORAREGSYS
+ORAREGSYS ORAREGSYS
+ORASSO
+ORASSO ORASSO
+ORDPLUGINS
+ORDPLUGINS ORDPLUGINS
+ORDSYS
+ORDSYS ORDSYS
+OSE$HTTP$ADMIN (random password)
+OSP22
+OSP22 OSP22
+OUTLN
+OUTLN OUTLN
+OWA
+OWA OWA
+OWA_PUBLIC
+OWA_PUBLIC OWA_PUBLIC
+OWNER
+OWNER OWNER
+OkiLAN
+Oper
+Oper Oper
+Operator
+Operator Operator
+OrigEquipMfr
+OutOfBox 
+OutOfBox demos guest 4DGifts (none by default)
+P4ssw0rd
+P@$$W0RD
+P@$$w0rD
+P@$$w0rd
+P@$$word
+P@55w0rd
+P@55w0rd!
+P@ssw0rd
+P@ssw0rd!
+P@ssword
+P@ssword123
+PANAMA
+PANAMA PANAMA
+PAPER
+PASS
+PASSW0RD
+PASSWORD
+PATROL
+PATROL PATROL
+PBX
+PBX PBX
+PCUSER SYS
+PDMREMI 
+PDP11
+PDP11 PDP11
+PDP8
+PDP8 PDP8
+PENG 
+PERFSTAT
+PERFSTAT PERFSTAT
+PFCUser 240653C9467E45
+PHANTOM 
+PLEX
+PLEX PLEX
+PLSQL SUPERSECRET
+PM
+PM PM
+PO
+PO PO
+PO7
+PO7 PO7
+PO8
+PO8 PO8
+PORTAL30
+PORTAL30 PORTAL30
+PORTAL30 PORTAL31
+PORTAL30_DEMO
+PORTAL30_DEMO PORTAL30_DEMO
+PORTAL30_PUBLIC
+PORTAL30_PUBLIC PORTAL30_PUBLIC
+PORTAL30_SSO
+PORTAL30_SSO PORTAL30_SSO
+PORTAL30_SSO_PS
+PORTAL30_SSO_PS PORTAL30_SSO_PS
+PORTAL30_SSO_PUBLIC
+PORTAL30_SSO_PUBLIC PORTAL30_SSO_PUBLIC
+PORTAL31
+POST
+POST 
+POST BASE
+POST POST
+POSTMASTER
+POSTMASTER POSTMASTER
+POWERCARTUSER
+POWERCARTUSER POWERCARTUSER
+POWERCHUTE APC
+PRIMARY
+PRIMARY PRIMARY
+PRINT
+PRINT 
+PRINT PRINT
+PRINTER
+PRINTER 
+PRINTER PRINTER
+PRIV
+PRIV PRIV
+PRIVATE
+PROCAL 
+PRODBM 
+PRODCICS
+PRODCICS PRODCICS
+PRODDTA
+PRODDTA PRODDTA
+PROG
+PROG PROG
+PROMAIL 
+PSEAdmin $secure$
+PSFMAINT 
+PUBLIC
+PUBSUB
+PUBSUB PUBSUB
+PUBSUB1
+PUBSUB1 PUBSUB1
+PVM 
+Pa22w0rd
+Parasol1
+Partner
+Pass1234
+PassW0rd
+Passw0rd1111
+Password
+Password#1
+Password1
+Password123
+Password@1
+PlsChgMe
+PlsChgMe!
+Polar123
+Polrty
+Polycom 456
+Polycom SpIp
+Posterie
+Private
+Protector
+Public
+Q!W@E#R$
+Q54arwms
+QAWSEDRF
+QDBA
+QDBA QDBA
+QDI
+QNX
+QS
+QS QS
+QSECOFR
+QSECOFR QSECOFR
+QSRV
+QSRV 11111111
+QSRV 22222222
+QSRV QSRV
+QSRVBAS
+QSRVBAS QSRVBAS
+QS_ADM
+QS_ADM QS_ADM
+QS_CB
+QS_CB QS_CB
+QS_CBADM
+QS_CBADM QS_CBADM
+QS_CS
+QS_CS QS_CS
+QS_ES
+QS_ES QS_ES
+QS_OS
+QS_OS QS_OS
+QS_WS
+QS_WS QS_WS
+QUSER
+QUSER QUSER
+Qwe12345
+Qwer!234
+Qwerty1!
+Qwerty123
+R1QTPS
+R3volution
+RAID hpt
+RDM470 
+RE
+RE RE
+REGO
+REMOTE
+REPADMIN
+REPADMIN REPADMIN
+REPORT
+REPORT REPORT
+REPORTS_USER OEM_TEMP
+REP_MANAGER DEMO
+REP_OWNER
+REP_OWNER DEMO
+REP_OWNER REP_OWNER
+RIP000
+RJE
+RJE RJE
+RM
+RMAIL
+RMAIL RMAIL
+RMAN
+RMAN RMAN
+RMUser1 password
+ROBELLE
+ROOT
+ROOT 
+ROOT ROOT
+ROOT500
+ROUTER 
+RSAAppliance
+RSBCMON SYS
+RSCS 
+RSCSV2 
+RSX
+RUPRECHT
+ReadOnly
+ReadWrite
+Replicator iscopy
+Reptile1
+Republic1
+Rodopi
+Rodopi Rodopi
+Root 
+Root123
+Runaway1
+Runner11
+SABRE
+SABRE 
+SAMPLE
+SAMPLE SAMPLE
+SAP
+SAP SAPR3
+SAP* 06071992
+SAP* 6071992
+SAP* PASS
+SAPCPIC ADMIN
+SAPCPIC admin
+SAPJSF ch4ngeme
+SAPR3
+SAPR3 SAP
+SAVSYS 
+SDOS_ICSAP
+SDOS_ICSAP SDOS_ICSAP
+SECDEMO
+SECDEMO SECDEMO
+SECONDARY
+SECRET
+SECRET123
+SECURITY
+SENTINEL
+SENTINEL SENTINEL
+SER
+SERVICE
+SERVICECONSUMER1
+SERVICECONSUMER1 SERVICECONSUMER1
+SESAME
+SETUP 
+SFCMI 
+SFCNTRL 
+SH
+SH SH
+SHELVES
+SITEMINDER
+SITEMINDER SITEMINDER
+SKY_FOX
+SLIDE SLIDEPW
+SLIDEPW
+SMART 
+SMDR
+SMDR SECONDARY
+SNMP
+SNMP_trap
+SNOWMAN
+SPOOLMAN HPOFFICE
+SQL
+SQLDBA 
+SQLUSER 
+SSA
+SSA SSA
+STARTER
+STARTER STARTER
+STEEL
+STRAT_PASSWD
+STRAT_USER STRAT_PASSWD
+STUDENT
+STUDENT STUDENT
+SUN
+SUPER
+SUPERSECRET
+SUPERUSER ANS#150
+SUPERVISOR
+SUPERVISOR 
+SUPERVISOR HARRIS
+SUPERVISOR NETFRAME
+SUPERVISOR NF
+SUPERVISOR NFI
+SUPERVISOR SUPERVISOR
+SUPERVISOR SYSTEM
+SUPPORT
+SWITCH
+SWITCHES_SW
+SWORDFISH
+SWPRO
+SWPRO SWPRO
+SWUSER
+SWUSER SWUSER
+SW_AWARD
+SYMPA
+SYMPA SYMPA
+SYS
+SYS 0RACLE
+SYS 0RACLE38
+SYS 0RACLE39
+SYS 0RACLE8
+SYS 0RACLE9
+SYS D_SYSPW
+SYS D_SYSTPW
+SYS MANAG3R
+SYS MANAGER
+SYS ORACL3
+SYS ORACLE
+SYS ORACLE8
+SYS ORACLE9
+SYS SYS
+SYS SYSPASS
+SYS1
+SYSA
+SYSA SYSA
+SYSADM
+SYSADM SYSADM
+SYSADM sysadm
+SYSADMIN 
+SYSCKP 
+SYSDBA masterkey
+SYSDUMP1 
+SYSERR 
+SYSLIB
+SYSMAINT
+SYSMAINT DIGITAL
+SYSMAINT SERVICE
+SYSMAINT SYSMAINT
+SYSMAN
+SYSMAN OEM_TEMP
+SYSMAN SYSMAN
+SYSPASS
+SYSTEM
+SYSTEM 0RACLE
+SYSTEM 0RACLE38
+SYSTEM 0RACLE39
+SYSTEM 0RACLE8
+SYSTEM 0RACLE8I
+SYSTEM 0RACLE9
+SYSTEM Admin
+SYSTEM CHANGE_ON_INSTALL
+SYSTEM D_SYSTPW
+SYSTEM MANAG3R
+SYSTEM MANAGER
+SYSTEM OPERATOR
+SYSTEM ORACL3
+SYSTEM ORACLE
+SYSTEM ORACLE8
+SYSTEM ORACLE8I
+SYSTEM ORACLE9
+SYSTEM SYS
+SYSTEM SYSLIB
+SYSTEM SYSPASS
+SYSTEM SYSTEM
+SYSTEST
+SYSTEST UETP
+SYSTEST_CLIG
+SYSTEST_CLIG SYSTEST
+SYSTEST_CLIG SYSTEST_CLIG
+SYSWRM 
+SZYX
+Scott Tiger
+Secret
+Security
+Serial
+Service 5678
+Sharp
+Silicon1
+SnuFG5
+SpIp
+Spacve
+Suckit1
+Summer12
+SunnyJim7
+Super
+Super123
+SuperUser kronites
+Switch
+Sxyz
+Symbol
+Sysop
+Sysop Sysop
+System
+T4urus
+TAHITI
+TAHITI TAHITI
+TANDBERG
+TCH
+TDISK 
+TDOS_ICSAP
+TDOS_ICSAP TDOS_ICSAP
+TELEDEMO
+TELEDEMO TELEDEMO
+TELESUP
+TEMP 
+TENmanUFactOryPOWER
+TEST
+TEST 
+TEST TEST
+TESTPILOT
+TESTPILOT TESTPILOT
+TJM
+TMAR#HWMT8007079 
+TMSADM 
+TMSADM $1Pawd2&
+TMSADM ADMIN
+TMSADM PASSWORD
+TOAD
+TOAD TOAD
+TRACE
+TRACESVR TRACE
+TRAVEL
+TRAVEL TRAVEL
+TSAFVM 
+TSDEV
+TSDEV TSDEV
+TSEUG
+TSUSER
+TSUSER TSUSER
+TTPTHA
+TURBINE
+TURBINE TURBINE
+Tamara01
+Tasman Tasmannet
+Tasmannet
+Telecom
+Telecom Telecom
+Test Everything 
+Test1234
+TheLast1
+Tiger
+Tiny
+Tokyo1
+Toshiba
+Trintech
+TrustNo1
+TzqF
+UAMIS_ 
+UETP
+UETP UETP
+UI-PSWD-01
+UI-PSWD-02
+ULTIMATE
+ULTIMATE ULTIMATE
+UNITY_ 
+UNKNOWN
+UOMNI_ 
+USER
+USER PASSWORD
+USER USER
+USER0
+USER0 USER0
+USER1
+USER1 USER1
+USER2
+USER2 USER2
+USER3
+USER3 USER3
+USER4
+USER4 USER4
+USER5
+USER5 USER5
+USER6
+USER6 USER6
+USER7
+USER7 USER7
+USER8
+USER8 USER8
+USER9
+USER9 USER9
+USERID PASSW0RD
+USERP
+USERP USERP
+USER_TEMPLATE
+USER_TEMPLATE 
+USER_TEMPLATE USER_TEMPLATE
+UTLBSTATU UTLESTAT
+UTLESTAT
+UVPIM_ 
+Un1verse
+Und3rGr0und
+User
+User 
+User 1234
+User 19750407
+User Password
+User User
+Username PASSWORD
+Username password
+VASTEST 
+VAX
+VAX VAX
+VCSRV
+VCSRV VCSRV
+VESOFT
+VIDEO
+VIDEOUSER VIDEO USER
+VIF_DEVELOPER VIF_DEV_PWD
+VIF_DEV_PWD
+VIRUSER
+VIRUSER VIRUSER
+VM3812 
+VMARCH 
+VMASMON 
+VMASSYS 
+VMBACKUP 
+VMBSYSAD 
+VMMAP 
+VMS
+VMS VMS
+VMTAPE 
+VMTLIBR 
+VMUTIL 
+VNC winterm
+VOL-0215 
+VRR1
+VRR1 VRR1
+VSEIPO 
+VSEMAINT 
+VSEMAN 
+VTAM
+VTAM 
+VTAM VTAM
+VTAMUSER 
+Varadero
+Vextrex
+WANGTEK
+WANGTEK 
+WANGTEK WANGTEK
+WEBADM password
+WEBCAL01
+WEBCAL01 WEBCAL01
+WEBDB
+WEBDB WEBDB
+WEBREAD
+WEBREAD WEBREAD
+WELCOME
+WINDOWS_PASSTHRU
+WINDOWS_PASSTHRU 
+WINDOWS_PASSTHRU WINDOWS_PASSTHRU
+WINSABRE
+WINSABRE SABRE
+WINSABRE WINSABRE
+WKSYS
+WKSYS WKSYS
+WLAN_AP
+WOOD
+WORD
+WP HPOFFICE
+WWW
+WWW WWW
+WWWUSER
+WWWUSER WWWUSER
+WebAdmin WebBoard
+WebBoard
+Welcome0
+Welcome1
+Welcome123
+What3v3r
+WinCCAdmin 2WSXcder
+WinCCConnect 2WSXcder
+Windows1
+Winston1
+Wireless
+X#1833
+XLSERVER
+XMI_DEMO sap123
+XPRT
+XPRT XPRT
+XXSESS_MGRYY X#1833
+YES
+Yak asd123
+ZAAADA
+ZAQ!2wsx
+Zaq1xsw2
+Zenith
+Zte521
+Zxasqw12
+[^_^]
+_Cisco
+a
+a.auth-ns
+a01
+a02
+a1
+a11b12c13
+a123456
+a12345678
+a13a13
+a1b2c3d4e5
+a1b2c3d4e5f6
+a1rplan3
+a2
+aLLy
+aPAf
+aa
+aaa 
+aaaa
+aaaaa
+aaaaaa
+aaaaaaaa
+aaliyah
+aammii
+aaron
+abang78
+abc
+abc#123
+abc123
+abc123!!
+abc123d4
+abcd
+abcd-1234
+abcd1234
+abcde
+abcdef
+abcdef3
+abcdefg
+abcdl2e
+abcdpass
+abd234
+abhaile1
+abigail
+about
+abra
+abraham
+abrakadabra
+abusive
+ac
+academico
+acc
+acc acc
+acceso
+access
+accobra
+accord
+accounting
+accounting accounting
+accounts
+acid
+action
+activestat
+acuario
+ad
+adam
+adaptec
+adfexc
+adfexc adfexc
+adidas
+adkit
+adm
+adm 
+adm adm
+adm cascade
+adm none
+adm12345
+admi admin
+admin
+admin 
+admin !admin
+admin 0
+admin 1111
+admin 1111111
+admin 123
+admin 123123
+admin 1234
+admin 12345
+admin 123456
+admin 1234admin
+admin 1988
+admin 2222
+admin 22222
+admin 54321
+admin 7ujMko0admin
+admin AitbISP4eCiG
+admin Ascend
+admin IP address
+admin ISPMODE
+admin NetCache
+admin NetSeq
+admin NetSurvibox
+admin OCS
+admin OkiLAN
+admin P@55w0rd!
+admin Password
+admin Protector
+admin Sharp
+admin TANDBERG
+admin [^_^]
+admin access
+admin admin
+admin admin000
+admin admin123
+admin admin1234
+admin adminadmin
+admin administrator
+admin adslolitec
+admin adslroot
+admin allot
+admin amigosw1
+admin articon
+admin asante
+admin asd
+admin atlantis
+admin axis2
+admin barney
+admin barricade
+admin bintec
+admin blank
+admin boca raton
+admin brocade1
+admin changeme
+admin cisco
+admin comcomcom
+admin conexant
+admin default
+admin demo
+admin diamond
+admin dmr99
+admin dnnadmin
+admin draadloos
+admin enhydra
+admin epicrouter
+admin exinda
+admin extendnet
+admin funkwerk
+admin hagpolm1
+admin hello
+admin hp.com
+admin imsa7.0
+admin imss7.0
+admin infrant1
+admin ip20
+admin ip21
+admin ip3000
+admin ip305Beheer
+admin ip400
+admin ironport
+admin isee
+admin j5Brn9
+admin letmein
+admin leviton
+admin linga
+admin meinsm
+admin michelangelo
+admin microbusiness
+admin motorola
+admin mp3mystic
+admin mu
+admin muze
+admin my_DEMARC
+admin netadmin
+admin netgear1
+admin netscreen
+admin nimda
+admin nms
+admin no password
+admin novell
+admin noway
+admin operator
+admin pass
+admin password
+admin password1
+admin passwort
+admin peribit
+admin pfsense
+admin phplist
+admin public
+admin pwp
+admin radius
+admin raritan
+admin rmnetlm
+admin root
+admin secure
+admin security
+admin setup
+admin smallbusiness
+admin smcadmin
+admin store
+admin superuser
+admin surecom
+admin switch
+admin symbol
+admin synnet
+admin sysAdmin
+admin system
+admin tomcat
+admin tr650
+admin urchin
+admin visual
+admin w2402
+admin welcome
+admin x-admin
+admin zoomadsl
+admin000
+admin001
+admin01
+admin1 password
+admin1121
+admin123
+admin1234
+admin2 changeme
+admin222
+admin@example.com admin
+admin_1
+adminadmin
+admini
+administracion
+administrador
+administrator
+administrator 
+administrator * * #
+administrator 0
+administrator 1234
+administrator 19750407
+administrator PlsChgMe!
+administrator RSAAppliance
+administrator admin
+administrator administrator
+administrator adminpass
+administrator asecret
+administrator none
+administrator password
+administrator root
+administrators
+adminpass
+adminpasswd
+adminpwd
+admins
+adminstat OCS
+adminstrator changeme
+admint
+adminttd
+adminttd adminttd
+adminuser OCS
+adminview OCS
+admn
+admpw
+adoado
+adobe
+adobeadobe
+adrian
+adriana
+adriano
+ads
+adserver
+adsl
+adslolitec
+adslroot
+adtran
+advcomm500349
+adworks
+ae
+af
+affiliate
+affiliates
+afiliados
+ag
+agenda
+agent
+agent_steal
+ai
+aileen
+aipai
+airborne
+airforce
+airlines
+airplane
+aix
+ajax
+ajlesd
+ak
+akamai
+akula123
+al
+al2e4
+al2e4s
+alabama
+alarcon
+alaska
+albatros
+albert
+alberto
+albuquerque
+alejandra
+alejandro
+alerts
+alex
+alexa
+alexande
+alexander
+alexandra
+alexandru
+alexia
+alexis
+alexl
+alexo
+alfarome
+alfonso
+alfred
+alfredo
+alice
+alicia
+alien
+alien alien
+alisha
+alison
+all
+all private
+all public
+allen
+allison
+allot
+allstar
+alog123
+alonso
+alpargata
+alpha
+alpha1
+alpine
+alterwind
+alvin
+always
+alyssa
+am
+amanda
+amarillo
+amateur
+amazing
+amber
+amelia
+america
+american
+americas
+ami 
+amigas
+amigos
+amigosw1
+amilopro
+amistad
+amorcito
+amore
+amores
+amormio
+an
+an0th3r
+anaheim
+anakonda
+anakonda1
+analyzer
+anamaria
+anderson
+andre
+andrea
+andreea
+andrei
+andreita
+andres
+andrew
+andrew1
+andrewl
+angel
+angel1
+angel2
+angel2000
+angel9
+angela
+angelbaby
+angeles
+angelica
+angelina
+angelita
+angelito
+angell
+angelo
+angels
+angie
+angusyoung
+anicust
+animal
+animals
+anime
+anita
+anko
+annette
+annie
+announce
+announcements
+anon
+anon anon
+anonymous 
+anonymous Exabyte
+anonymous any@
+anonymous password
+answer 
+anthony
+anthony1
+anthonyl
+antibiotico
+antivirus
+antonio
+any system
+any@
+anyadhogyvan
+anything
+ao
+ap
+apa123
+apache
+apc
+apc apc
+apcuser apc
+apollo
+apollo11
+app
+app01
+app1
+apple
+applepie
+apples
+application
+applications
+apps
+appserver
+apricot
+april
+april2
+aprill
+apstndp
+aq
+aq12wsxz
+aqq123
+aqua2000
+aquarius
+ar
+archie
+arcsight
+ardrossan
+argentina
+ariana
+arianna
+ariel
+aries
+aristoteles
+arizona
+arkansas
+arlene
+arlington
+armando
+arnold
+arsenal
+arthur
+articon
+arturo
+as
+as400
+asante
+ascend
+asd
+asd123
+asd123qwe
+asdQWE123
+asdasd
+asdewq
+asdf
+asdf1234
+asdfasdf
+asdfg
+asdfgh
+asdfghj
+asdfghjk
+asdfghjkl
+asdfhjkl
+asdlkj
+asdlkj12
+asdlkj123
+asecret
+ashanti
+ashlee
+ashleigh
+ashley
+ashley1
+ashleyl
+ashton
+asia
+aspirine
+asshole
+assman
+asterix
+astime
+at
+at4400
+at4400 at4400
+atacan
+atc123
+athena
+athlon64
+atlant1s
+atlanta
+atlantis
+atlas
+att
+attack
+au
+aubrey
+auction
+audrey
+augmentin
+august
+august2
+augustl
+aurora
+austin
+australia
+auth
+author
+author author
+auto
+autocad
+autocad autocad
+autodiscover
+autorun
+autumn
+av
+avalon
+aventura
+avril
+aw
+award.sw
+award_?
+award_ps
+awesome
+awkward
+ax400
+axis2
+ayuda
+az
+azerty
+aztech
+b
+b.auth-ns
+b01
+b02
+b1
+b2
+b2b
+b2c
+b4lls4ck
+ba
+babbit
+babes
+babies
+baby
+baby2
+babyblue
+babyboo
+babyboy
+babycakes
+babydoll
+babyface
+babygirl
+babygirl1
+babygirl2
+babygirll
+babygirlo
+babygurl
+babygurll
+babyko
+babyl
+babylove
+babyo
+babyphat
+back
+backdoor
+backend
+backup
+backuponly backuponly1
+backuponly1
+backuprestore backuprestore1
+backuprestore1
+badass
+badboy
+badg3r5
+badger
+badgirl
+bagabu
+bailey
+baker
+bakersfield
+balance
+balancer
+baller
+ballet
+ballin
+balls
+baltimore
+bambam
+bamsty
+banana
+bananas
+banane1
+bandit
+bang
+banking
+baofeng
+barbara
+barbetta
+barbie
+barbusse
+barcelona
+barney
+barricade
+baseball
+basisk
+basisk basisk
+basket
+basketball
+bass
+bastard
+batista
+batman
+baxter
+bayarea
+bb
+bball
+bbbbbb
+bbdd
+bbs
+bbs 
+bbs bbs
+bbsd-client NULL
+bbsd-client changeme2
+bciim bciimpw
+bciimpw
+bcim bcimpw
+bcimpw
+bcms bcmspw
+bcmspw
+bcnas bcnaspw
+bcnaspw
+bd
+bdc
+be
+bea
+beach
+bear
+beatles
+beatriz
+beautiful
+beauty
+beaver
+beavis
+bebita
+becca
+beckham
+becky
+beer
+belinda
+bell9
+bella
+belle
+benfica
+benitocameloo
+benjamin
+benji
+benny
+berlin
+bernard
+bestfriend
+bestfriends
+beta
+bethany
+betty
+bettyboop
+bewan
+bewan bewan
+beyonce
+bf
+bg
+bh
+bhaby
+bhebhe
+bi
+bianbu
+bianca
+bier
+bigboy
+bigbuddy
+bigcock
+bigdaddy
+bigdick
+bigdog
+bigmac
+bigman
+bigred
+bigred23
+bigtits
+bill
+bill bill
+billabong
+billie
+billing
+billy
+billy-bob 
+billybob
+bin
+bin sys
+bintec
+biodata
+bios
+biosstar
+biostar
+birdie
+birdshit
+birthday
+bishop
+bismillah
+bitch
+bitch1
+bitches
+bitchl
+bitchy
+biteme
+biz
+biztalk
+bj
+bla123
+blabla
+blabla12
+blablabla
+black
+black321
+blackberry
+blackie
+blackonblack
+blacky
+blahblah
+blake
+blanca
+blank
+blank admin
+blank blank
+blazer
+blender
+blessed
+blink182
+blinkl8
+blizzard
+blog
+blogs
+blonde
+blondie
+blood
+bloods
+blossom
+blowjob
+blowme
+blubje
+blue
+blue bluepw
+blue2
+blueberry
+blueeyes
+bluel
+bluepw
+bluespot
+bm
+bmw12345
+bn
+bnc
+bo
+bob
+bobby
+bobthebuilder
+boca
+bof
+bohemia
+boise
+bollocks
+bolsa
+bomba
+bonbon
+bond007
+bondage
+bonita
+bonnie
+boobies
+booboo
+boobs
+booger
+boogie
+boomer
+booty
+border
+boricua
+boss
+boss boss
+boston
+both tomcat
+boulder
+bowling
+bowwow
+boy
+bpel
+bpel bpel
+br
+bradley
+brandi
+brandon
+brandon1
+brandonl
+brandy
+bratz
+braves
+bravo
+brayden
+brazil
+breanna
+brenda
+brendan
+brian
+brian0711
+briana
+brianna
+brightmail
+britian
+britney
+britt
+brittany
+brittney
+broadcast
+brocade1
+broken
+broker
+bronco
+broncos
+bronze
+brooke
+brooklyn
+brother
+brown
+brownie
+browns
+browse browsepw
+browse looker
+browsepw
+bruno
+brutus
+bryan
+bryant
+bs
+bsd
+bsd0
+bsd01
+bsd02
+bsd1
+bsd2
+bsxpass
+bsxuser bsxpass
+bt
+bubba
+bubba (unknown)
+bubba1
+bubble
+bubblegum
+bubbles
+bubbles1
+bublik
+bubububu
+buddha
+buddy
+buddy1
+budlight
+buffalo
+buffy
+bug
+buggalo
+bugs
+bugsbunny
+bugzilla
+build
+builtin
+builtin builtin
+bulldog
+bulldogs
+bullet
+bulletins
+bullshit
+bunny
+burek123
+burn
+burner
+burton
+buscador
+busted
+buster
+butt
+butter
+buttercup
+butterfly
+butterfly1
+butthead
+buttons
+buy
+bv
+bw
+by
+bynthc
+bz
+c
+c.auth-ns
+c@lvin
+ca
+cabajka
+cable-d
+cable-docsis
+cablecom router
+cac_admin cacadmin
+cacadmin
+cache
+caesar
+cafe
+cairell
+caitlin
+calamar
+caleb
+calendar
+california
+call
+callie
+calliope
+callofduty
+callum
+calv1n
+calvin
+calvin!
+calvin1
+calvin22
+calvin99
+camaro
+cameron
+camila
+camille
+camilo
+campanita
+canada
+canal
+cancer
+candice
+candy
+cannon
+canon
+canon_admin
+cantik
+capricorn
+captain
+caramel
+caramelo
+cardinal
+carebear
+careers
+carina
+carla
+carla123
+carlitos
+carlo
+carlos
+carmen
+carol
+carolina
+caroline
+carpediem
+carrie
+carson
+carter
+cartman
+cascade
+casey
+casper
+cassandra
+cassidy
+cassie
+castillo
+catalina
+catalog
+catarina
+catch22
+catdog
+catfish
+catherine
+cathy
+catinthehat
+cbtp
+cc
+ccaere
+cclfb
+ccrusr
+ccrusr ccrusr
+cd
+cdburner
+cdn
+cdn123
+cdvcdv
+cdwv
+cecilia
+celeste
+cellit
+cellit cellit
+cellphone
+celtic
+celticfc
+central
+cert
+certificates
+certify
+certserv
+certsrv
+cesar
+cf
+cg
+cgadmin
+cgadmin cgadmin
+cgi
+ch
+ch4ng3m3
+chacha
+champion
+chance
+chandler
+chanel
+change
+change_on_install
+changeit
+changeme
+changeme!
+changeme1
+changeme123
+changeme2
+changeme20
+changemes
+changethis
+channel
+channels
+charlene
+charles
+charlie
+charlie1
+charlotte
+charmed
+chase
+chat
+chats
+chatserver
+cheche
+check
+check123
+checkfs
+checkfs checkfs
+checkfsys
+checkfsys checkfsys
+checkpoint
+checksys
+checksys checksys
+cheeky
+cheer
+cheerl
+cheerleader
+cheero
+cheese
+cheetah
+chelle
+chelsea
+cheng1234
+cherokee
+cherries
+cherry
+cheryl
+chester
+chevelle
+chevy
+cheyenne
+chi
+chicago
+chichi
+chicken
+chicks
+chico
+children
+chile62
+china
+chingy
+chinita
+chiquita
+chivas
+chloe
+chocolate
+chopper
+chris
+chris1
+chris2
+chrisb
+chrisbrown
+chrisl
+chriso
+chrissy
+christ
+christian
+christin
+christina
+christine
+christmas
+christopher
+christy
+chronic
+chubby
+chucky
+church
+ci
+ciang
+cims
+cincinnati
+cinderella
+cindy
+cinnamon
+circ 
+cisco
+cisco 
+cisco cisco
+cisco123
+ciscocisco
+ciscofw
+cisko
+citel
+citel password
+citrix
+ck
+cl
+claire
+class
+classes
+classic
+classifieds
+classo
+classofo
+classroom
+claudia
+clayton
+cleopatra
+cleveland
+clicktrack
+client
+client client
+clientes
+clients
+clifford
+clinton
+cloud
+clover
+club
+clubs
+cluster
+clusters
+cm
+cmail
+cmaker
+cmaker cmaker
+cmc password
+cmlslc
+cms
+cms500
+cn
+cn=orcladmin welcome
+co
+cobra
+cocacola
+cock
+cocoa
+coconut
+code
+coffee
+coldfusion
+colleen
+college
+collins123
+colombia
+colombus
+colorado
+columbus
+com
+comcast 
+comcast 1234
+comcomcom
+commerce
+commerceserver
+communigate
+community
+compaq
+compaq2003
+compras
+computer
+computer1
+con
+concentrator
+condo
+conexant
+conf
+conference
+conferencing
+confidential
+confused
+connect
+connecticut
+conner
+connie
+connor
+consola
+console
+consult
+consultant
+consultants
+consulting
+consults
+consumer
+contact
+content
+contracts
+control
+converse
+cookie
+cookie1
+cookies
+cool
+coolcat
+cooldude
+coolgirl
+coolio
+cooper
+copper
+corazon
+core
+core phpreactor
+core0
+core01
+corecess
+corecess corecess
+corey
+corona
+corp
+corpmail
+corporate
+correct
+correo
+correoweb
+cortafuegos
+corvette
+cosita
+cougar
+counterstrike
+country
+courses
+courtney
+cowboy
+cowboys
+cowgirl
+coyote
+cpe1704tks
+cr
+cracker
+craft
+craft 
+craft craft
+craft craftpw
+craft crftpw
+craftpw
+crash
+crashbandicoot
+crazy
+cream
+creative
+credu
+crew10
+crftpw
+cricket
+cristian
+cristiano
+cristina
+cristo
+crm
+crowd­-openid-­server password
+crs
+crystal
+cs
+csigabiga
+cso
+css
+ct
+ctb_admin sap123
+cthdfr
+cti4ever
+ctrls
+cu
+cuddles
+cukorborso
+cumming
+cumshot
+cunt
+cupcake
+curtis
+cusadmin highspeed
+cust custpw
+cust1
+cust10
+cust100
+cust101
+cust102
+cust103
+cust104
+cust105
+cust106
+cust107
+cust108
+cust109
+cust11
+cust110
+cust111
+cust112
+cust113
+cust114
+cust115
+cust116
+cust117
+cust118
+cust119
+cust12
+cust120
+cust121
+cust122
+cust123
+cust124
+cust125
+cust126
+cust13
+cust14
+cust15
+cust16
+cust17
+cust18
+cust19
+cust2
+cust20
+cust21
+cust22
+cust23
+cust24
+cust25
+cust26
+cust27
+cust28
+cust29
+cust3
+cust30
+cust31
+cust32
+cust33
+cust34
+cust35
+cust36
+cust37
+cust38
+cust39
+cust4
+cust40
+cust41
+cust42
+cust43
+cust44
+cust45
+cust46
+cust47
+cust48
+cust49
+cust5
+cust50
+cust51
+cust52
+cust53
+cust54
+cust55
+cust56
+cust57
+cust58
+cust59
+cust6
+cust60
+cust61
+cust62
+cust63
+cust64
+cust65
+cust66
+cust67
+cust68
+cust69
+cust7
+cust70
+cust71
+cust72
+cust73
+cust74
+cust75
+cust76
+cust77
+cust78
+cust79
+cust8
+cust80
+cust81
+cust82
+cust83
+cust84
+cust85
+cust86
+cust87
+cust88
+cust89
+cust9
+cust90
+cust91
+cust92
+cust93
+cust94
+cust95
+cust96
+cust97
+cust98
+cust99
+customer
+customer none
+customers
+custpw
+cuteako
+cutegirl
+cuteko
+cutel
+cuteme
+cutie
+cutiel
+cutiepie
+cuties
+cuttie
+cv
+cvs
+cx
+cy
+cydvb
+cynthia
+cyphte
+cz
+d
+d.e.b.u.g
+d.e.b.u.g User
+d00rmat
+d0dger
+d0m1n0
+d1ngd0ng
+d3ft0n3s
+daddy
+daddy1
+daddysgirl
+dadmin
+dadmin dadmin
+dadmin dadmin01
+dadmin01
+daemon
+daemon 
+daemon daemon
+daemon09
+daisy
+dakota
+dalejr
+dallas
+dalton
+damian
+damien
+damin
+dance
+dancer
+dancerl
+dancing
+danger
+danica
+daniel
+daniel1
+daniela
+daniell
+danielle
+danilo
+danny
+darius
+darkangel
+darkness
+darkside
+darling
+darren
+darwin
+darwin99
+dasusr1
+data
+database
+database01
+database02
+database1
+database2
+databases
+datastore
+datos
+dave
+david
+david1
+davidl
+davox
+davox davox
+dayana
+db
+db0
+db01
+db02
+db1
+db2
+db2admin
+db2admin db2admin
+db2fenc1
+db2fenc1 db2fenc1
+db2inst1
+db2pass
+db2password
+db2pw
+dbase
+dbase dbase
+dbpass
+dbps
+dc
+ddemde
+de
+dealers
+deanna
+death
+debbie
+debian
+debug
+debug d.e.b.u.g
+debug synnet
+debug tech
+debugs
+dec
+december
+december2
+decemberl
+deedee
+def
+def trade
+default
+default WLAN_AP
+default.password
+default.password 
+defero
+defiant
+delaware
+delfin
+dell
+delled0
+delta
+delta1
+demo
+demo 
+demo demo
+demonstration
+demos
+demos 
+demos demos
+deneme
+denise
+dennis
+dennis96
+denver
+depot
+derek
+derrick
+des
+desarrollo
+descargas
+design
+designer
+desiree
+deskalt password
+deskman changeme
+desknorm password
+deskres password
+desktop
+destiny
+detroit
+dev
+dev0
+dev01
+dev1
+devel
+develop
+developer
+developers
+development
+device
+device device
+devil
+devils
+devin
+devserver
+devsql
+dexter
+dhcp
+dhs3mt
+dhs3mt dhs3mt
+dhs3pms
+dhs3pms dhs3pms
+diablo
+diag danger
+diag switch
+dial
+dialup
+diamond
+diamonds
+diana
+dianita
+dianne
+dick
+dickhead
+diego
+diesel
+dietcoke
+digger
+digital
+dikdik
+dilbert
+dillon
+dimdim
+dimple
+dimples
+dinamo
+diosesamor
+dipset
+dir
+direct
+directory
+dirty
+disc
+discovery
+discuss
+discussion
+discussions
+disk
+disney
+distrib distrib0
+distrib0
+distributer
+distributers
+disttech
+disttech 4tas
+disttech disttech
+disttech etas
+divine
+dixie
+dj
+djonet
+dk
+dm
+dmail
+dmr99
+dmz
+dn_04rjc
+dnews
+dni
+dni 
+dni dni
+dnnadmin
+dnnhost
+dns
+dns-2
+dns0
+dns1
+dns2
+dns3
+do
+docs
+doctor
+documentacion
+documentos
+dodgers
+doggie
+doggy
+dolphin
+dolphins
+domain
+domains
+dominic
+dominio
+dominique
+domino
+dominoweb
+donald
+donkey
+donna
+donnie
+donovan
+doodle
+doom
+doraemon
+doris321
+dorothy
+doruk
+dos
+dos dos
+dottie
+douglas
+download
+downloads
+downtown
+dpn changeme
+draadloos
+dragon
+dragonfly
+dragons
+draytek 1234
+dream
+dream182
+dreambox
+dreamer
+dreams
+dreamweaver
+driver
+dropship
+dropzone
+drowssap
+drpepper
+drummer
+drupal
+dsl
+dtvbhx
+ducati
+ducati900ss
+dude
+duffy123
+duke
+dulce
+duncan
+dustin
+dvnstw
+dvr2580222
+dvst10n
+dvstation dvst10n
+dwayne
+dweeble
+dylan
+dyn
+dynamic
+dynip
+dz
+e
+e-com
+e-commerce
+e0
+e250 e250changeme
+e250changeme
+e500 e500changeme
+e500changeme
+eagle
+eagle eagle
+eagle1
+eagles
+earth
+east
+eastside
+easy123
+easyway
+eatme
+ec
+echo
+echo User
+echo echo
+eclipse
+ecom
+ecommerce
+ecuador
+eddie
+edgar
+edi
+edu
+eduardo
+education
+edward
+edwin
+ee
+eeyore
+efmukl
+eg
+eh
+einstein
+ejemplo
+ekdrms
+elaine
+electric
+element
+elena
+elephant
+elijah
+elizabet
+elizabeth
+ellie
+elpaso
+elvis
+email
+emanuel
+emerald
+emilio
+emily
+eminem
+emmanuel
+emotional
+empire
+employees
+empresa
+empresas
+en
+enable
+enable 
+enable cisco
+eng
+eng engineer
+eng01
+eng1
+engine
+engineer
+engineering
+england
+engmode hawk201
+enhydra
+enigma
+enjoy
+enquiry enquirypw
+enquirypw
+enrique
+enter
+enter123
+enter123321
+enterprise
+epicrouter
+epsilon
+eqadmin  Serial port only equalizer
+er
+eragon1
+eric
+erica
+erick
+erika
+ernesto
+erotic
+erp
+es
+esd
+esm
+esmeralda
+espanol
+esperanza
+estadisticas
+esteban
+esther
+estheralastruey 
+estrella
+estrellita
+esx
+et
+eta
+etas
+eternity
+ethan
+eugene
+eunice
+europe
+evelyn
+events
+everton
+evilpenguin
+example
+exchange
+exec
+exinda
+expert03
+exploit
+explorer
+extazy
+extendnet
+extern
+external
+extranet
+extreme
+ezit
+ezone
+f
+f00b4r
+f00bar
+f00sball
+f18hornet
+f4g5h6j7
+f5
+fabian
+fabiola
+fabulous
+face2face
+factory
+factory factory
+faith
+fal
+fal 
+fal fal
+falcon
+falcons
+falloutboy
+fam
+fam fam
+familia
+family
+familymacintosh
+famous
+fantasy
+farm
+fashion
+fast abd234
+faststats
+fastweb
+fastwire fw
+faszom
+fatboy
+fatcat
+father
+fatima
+fax
+fax 
+fax fax
+fdsa
+february
+feedback
+feeds
+felicia
+felipe
+felix
+fender
+fergie
+fernanda
+fernandes
+fernando
+ferrari
+fg_sysadmin password
+fi
+fibranne
+ficken2000
+field
+field field
+field support
+field-service
+figarofigaro
+file
+files
+fileserv
+fileserver
+filestore
+filter
+find
+finger
+fire
+fire1818
+fireman
+firewall
+firstsite
+firstsite firstsite
+fischer123
+fish
+fisher
+fishing
+fivranne
+fix
+fixes
+fj
+fk
+fl
+flapjack
+flaquito6
+flash
+flat24
+flores
+florida
+florida69
+flow
+flower
+flowers
+fluffy
+flyboy
+flyers
+flying
+fm
+fo
+foo123
+foobar
+foolproof
+football
+football1
+footballl
+ford
+forest
+forever
+forget
+formacion
+formeforme
+foro
+foros
+fortworth
+forum
+forums
+foto
+fotos
+fotos1
+foundry
+fox
+foxtrot
+fr
+france
+frances
+francis
+francisco
+frank
+frankie
+franklin
+freak
+freaky
+freckles
+fred
+freddie
+freddy
+free
+freebsd
+freebsd0
+freebsd01
+freebsd02
+freebsd1
+freebsd2
+freedom
+freedom35
+freedumb1
+freekevin
+freepass
+freetown1
+freeuser
+freeware
+fresher
+fresita
+fresno
+friday
+friend
+friends
+friendship
+friendster
+frogger
+froggy
+front
+frontdesk
+fs
+fs1
+fsp
+ftp
+ftp 
+ftp ftp
+ftp-
+ftp0
+ftp2
+ftp_admi kilo1987
+ftp_inst pbxk1064
+ftp_nmc tuxalize
+ftp_oper help1954
+ftpserver
+fubar
+fuck
+fuckbitchesgetmoney
+fucked
+fucker
+fucking
+fuckit
+fucklove
+fuckme
+fuckoff
+fucku
+fuckyou
+fuckyou1
+fuckyou2
+funkwerk
+funny
+funshion
+futbol
+fw
+fw-1
+fw1
+fwadmin xceladmin
+fwsm
+fwsm0
+fwsm01
+fwsm1
+g
+g6PJ
+g8keeper
+ga
+gabby
+gabriel
+gabriela
+gabrielle
+galeria
+galerias
+galleries
+gallery
+galore
+games
+games 
+games games
+gamma
+ganda
+gandako
+gandalf
+gandalf6
+gangsta
+gangster
+ganteng
+garcia
+garfield
+garrett
+gate
+gatekeeper
+gateway
+gatita
+gatito
+gators
+gauss
+gbpltw
+gd
+ge
+gemini
+geminis
+gen1
+gen2
+general
+genesis
+genius
+genius123
+george
+georgia
+gerald
+geraldine
+gerard
+gerardo
+german
+germany
+gerrard
+get2it
+getmoney
+getoutofhere
+gf
+gfhjkm
+gfhjkmrf
+gg
+ggdaseuaimhrke
+gh
+ghbdtnbr
+ghetto
+gi
+giants
+gibson
+giggles
+gigi99
+gilbert
+ginger
+giovanni
+girl
+girls
+gizmo
+gl
+gladys
+glendale
+glftpd
+glftpd glftpd
+glitter
+gloria
+gm
+gmail
+gmmkh
+gn
+go
+goblue
+god1 12345
+god2 12345
+godbless
+godblessyou
+goddess
+godisgood
+godislove
+godzilla
+goethe
+gold
+golden
+goldfish
+goldie
+goldmine
+goldstar
+golf
+golfer
+gomachan
+goneo
+gonzalez
+gonzo 
+goober
+good
+goodgirl
+google
+gopher
+gopher gopher
+gordon
+gorefest
+gorgeous
+gothic
+gowest!
+gp
+gq
+gr
+grace
+gracie
+grandma
+granny
+grapenuts
+gravis
+gravity
+great
+green
+greenday
+greenl
+gregory
+groovy
+gropher 
+group
+grouper
+groups
+groupwise
+gs
+gsx
+gt
+gu
+guadalupe
+guardone
+guest
+guest 
+guest 1234
+guest User
+guest guest
+guest guestgue
+guest none
+guest1
+guest1 guest
+guest1 guest1
+guestgue
+guillermo
+guinness
+guitar
+gunner
+guru *3noguru
+gustavo
+gw
+gw1
+gwapako
+gy
+gymnast
+h
+h179350
+h6BB
+haasadm lucy99
+hagpolm1
+hahaha
+hailey
+hal
+haley
+halflife
+hallo
+hallo12
+hallo123
+halt
+halt 
+halt halt
+halt tlah
+hamilton
+hammer
+hamster
+handsome
+hannah
+hannah1
+hannover96
+hanseatic
+happiness
+happy
+happy1
+happyhippo
+hard
+hardcore
+hardon
+harley
+harley1985
+harmony
+harold
+harris
+harrison
+harry
+harrypotter
+harvey
+hasan12345
+hashimoto
+haslo123
+hawaii
+hawk201
+hawkeye
+hayden
+hayley
+hazel
+hdms
+he
+head
+heart
+hearts
+heather
+heaven
+hector
+heka6w2
+heleli
+helena
+hello
+hello hello
+hello1
+hello123
+hellokitty
+hellol
+help
+help1954
+helpdesk
+helpdesk OCS
+helpme
+helponline
+helson
+hendrix
+henry
+hentai
+hercules
+hermes
+hermione
+hermosa
+hernandez
+hero777
+hershey
+hewlpack
+heyhey
+hi
+hi3518
+hidden
+highspeed
+hilary
+hiphop
+hitman
+hk
+hm
+hn
+hobbes
+hobbs
+hockey
+hogehoge
+holas
+holden
+holiday
+holla
+hollie
+hollister
+holly
+hollywood
+home
+homebase
+homer
+honda
+honduras
+honey
+honey2
+honeyko
+honeyl
+honeypot
+hongkong
+honolulu
+hooker
+hooters
+horney
+horny
+horse
+horses
+host
+host dnnhost
+host1
+host3
+host4
+host5
+hotboy
+hotchick
+hotdog
+hotel
+hotgirl
+hotjobs
+hotmail
+hotmama
+hotpink
+hotrod
+hotstuff
+hottie
+hottie1
+hottiel
+house
+houstin
+houston
+howard
+howard03
+howto
+hp
+hp.com
+hp_admin
+hpinvent
+hpov
+hpt
+hqadmin
+hqadmin hqadmin
+hr
+hs7mwxkk
+hsa hsadb
+hsadb
+hscroot abc123
+ht
+http
+http 
+https
+hu
+huawei
+hub
+humanresources
+hummer
+humppa
+hunter
+hunting
+hydrasna 
+hyperdrive
+i
+iDirect
+ia
+iamthebest
+ias
+ibddls
+ibm
+ibm 2222
+ibm password
+ibm service
+ibmcel
+ibmdb
+icecream
+iceman
+iceman 
+iclock timely
+iconto
+ictel
+id
+ida
+idaho
+idontknow
+ids
+ie
+ihateu
+ihateyou
+iis
+ikwb
+il
+illinois
+ilmi
+ilom-admin
+ilom-admin ilom-admin
+ilom-operator
+ilom-operator ilom-operator
+ilon
+ilon ilon
+ilove
+iloveboys
+ilovechris
+ilovegod
+ilovehim
+ilovejesus
+ilovejosh
+ilovematt
+iloveme
+ilovemike
+ilovemom
+ilovemyself
+ilovetessa
+iloveu
+iloveu2
+iloveyou
+iloveyou!
+iloveyou1
+iloveyou2
+iloveyoul
+iluvme
+iluvu
+iluvyou
+im
+images
+images images
+imail
+imap
+imap4
+img
+img0
+img01
+img02
+imissyou
+imperial
+imsa7.0
+imss7.0
+in
+inads
+inads inads
+inads indspw
+inbound
+inc
+include
+incoming
+incubus
+india
+indian
+indiana
+indianapolis
+indonesiaraya
+indspw
+infinity
+info
+informix
+informix informix
+infrant1
+ingrid
+init
+init initpw
+initpw
+inlove
+insane
+inside
+install
+install install
+install llatsni
+install secret
+installer
+installer installer
+int
+integra18
+integra99
+intel
+intel intel
+intermec
+intermec intermec
+intern
+internal
+internal oracle
+international
+internet
+intl
+intranet
+inuvik49
+inuyasha
+invalid
+inverter
+investor
+investors
+io
+iolan
+iota
+iowa
+ip20
+ip21
+ip3000
+ip305Beheer
+ip400
+ipax
+iplanet
+ipmonitor
+ipsec
+ipsec-gw
+ipv6
+ipv6.teredo
+iq
+ir
+irc
+ircd
+ircserver
+ireland
+iris
+irish
+irock
+ironman
+ironport
+irvine
+irving
+is
+isa
+isaac
+isabel
+isabella
+isabelle
+isaiah
+isaserv
+isaserver
+iscopy
+isdev
+isee
+ism
+isolation
+isp
+isp isp
+israel
+isync
+it
+italia
+italy
+itsadmin init
+itsasecret
+iubire
+iverson
+iwantu
+iwill
+ix
+j
+j09F
+j256
+j262
+j322
+j5Brn9
+j64
+jack
+jack1998
+jackass
+jackie
+jackson
+jackson88
+jacob
+jagadmin 
+jaguar
+jaime
+jake
+jamaica
+james
+james1
+james2
+jamesl
+jamie
+jander1
+janelle
+janice
+janine
+janjan
+jannie
+janta sales janta211
+january
+japan
+jared
+jasmin
+jasmine
+jasmine1
+jason
+jasper
+jasperadmin
+jasperadmin jasperadmin
+java
+javier
+jayden
+jayjay
+jayson
+jazmin
+jazmine
+jazzy
+jbvm
+je
+jedi
+jeff
+jefferson
+jeffrey
+jellybean
+jenjen
+jenna
+jennie
+jennifer
+jenny
+jeremiah
+jeremy
+jermaine
+jerome
+jerry
+jersey
+jesse
+jessica
+jessica1
+jessical
+jessie
+jester
+jesucristo
+jesus
+jesus1
+jesuschrist
+jesusl
+ji394su3
+jiemou3i
+jillian
+jimmy
+jj 
+jm
+jo
+joana
+joanna
+joanne
+jobs
+jocelyn
+joe password
+joejonas
+joeuser
+joeuser joeuser
+joh316
+johanna
+john
+john2008
+johncena
+johnel
+johnl
+johnny
+johnny50
+johnson
+johnson control
+joker
+joljee
+jonas
+jonathan
+jones
+jonjon
+jordan
+jordan1
+jordan2
+jordan23
+jordanl
+jordano
+jorge
+josel
+joseluis
+joseph
+josephine
+joshl
+joshua
+joshua1
+joshuao
+joyce
+joyjoy
+jp
+jrun
+jstwo
+jtjd
+juancarlos
+juanita
+juanito
+juantech
+judith
+juegos
+juice
+juicy
+juke2008
+julia
+julian
+juliana
+julie
+juliet
+juliette
+julio
+julius
+july2
+julyl
+june2
+junel
+juneo
+junior
+juniper
+junjun
+junker
+jupiter
+justice
+justin
+justin1
+justine
+justinl
+justino
+justme
+juventus
+jvbzd
+k
+k123
+k1rs1kka
+k4hvdq9tj9
+kailro
+kaitlyn
+kakala
+kalap
+kali2002
+kalimera
+kalvin
+kane
+kansas
+kansascity
+kappa
+karaf
+karate
+karen
+karina
+karkulka
+karla
+karlita
+karmal
+katana
+katelyn
+katherine
+kathleen
+kathryn
+kathy
+katie
+katrina
+kawasaki
+kaykay
+kayla
+kaylee
+kayleigh
+kb
+kcm
+ke
+keepout123
+keisha
+keith
+kelly
+kelsey
+kelvin
+kendall
+kendra
+kennedy
+kenneth
+kenny
+kentucky
+kenzan
+kenzie
+kerberos
+kermit
+kermit kermit
+kevin
+keynote
+keystone
+kg
+kh
+ki
+kiara
+kieran
+killa
+killer
+kilo
+kilo1987
+kimberly
+king
+kingkong
+kingofthehill
+kingswood
+kirsten
+kirsty
+kisses
+kisskiss
+kissme
+kissmyass
+kitkat
+kitten
+kittens
+kitty
+kittycat
+kittykat
+klimis
+klmnxx
+klv123
+klv1234
+km
+km123456
+kn
+kn1TG7psLu
+knight
+knowledgebase
+knoxville
+kodiak
+koe
+kolobezka
+komprie
+korea
+kosten
+kp
+kpact
+kr
+krakonos
+kramer
+krissy
+kristen
+kristin
+kristina
+kristine
+kronites
+krumholz
+krystal
+ks
+ksdjfg934t
+kucing
+kukareku
+kuku
+kusakusa
+kw
+ky
+kz
+l
+l0v3m3
+l1
+l2
+l2 l2
+l2e4s6a
+l2e4sa
+l2eabc
+l2eqwe
+l3
+l3 l3
+l8rsk8r
+la
+lab
+labas123
+laboratory
+labs
+lacoste
+lacrosse
+ladies
+ladybug
+laflaf
+laguna
+lakers
+lalala
+lambda
+lampard
+lan
+landon
+langke
+lansweeperuser mysecretpassword0*
+lantronix
+laptop
+larry
+laserjet
+last
+lasvegas
+latina
+launch
+laura
+lauren
+lavender
+lawrence
+lb
+lbyjpfdh
+lc
+ldap
+leanne
+leather
+leaves
+leelee
+legal
+legend
+legolas
+leigh
+lemon123
+lenor
+leo
+leoleo
+leonard
+leonardo
+lesarotl
+lesbian
+leslie
+lester
+letacla
+letmein
+letmein1
+letmein2
+letmeout
+letmesee
+level10
+leviton
+lewis
+lexar 
+lheujq
+li
+lib
+liberty
+libra
+library
+lickme
+lifehack
+lifeline
+lifesucks
+light
+lights
+liliana
+lillian
+lilly
+lilmama
+lilman
+lilwayne
+lima
+linaro
+lincoln
+linda
+lindsay
+lindsey
+lineprin
+linga
+link
+linkin
+linkin123
+linkinpark
+linux
+linux0
+linux01
+linux02
+linux1
+linux2
+linux99
+lipgloss
+liquidtension
+lisa
+lista
+lists
+listserv
+listserver
+little
+live
+liverpoo
+liverpool
+lizard
+lizzie
+lk
+lkilogmL
+lkw
+lkwpeter
+llatsni
+lll-222-l9eeemailaaddress.tst
+load
+loadbalancer
+local
+localadmin
+localhost
+locate locatepw
+locatepw
+lofasz
+log
+log0
+log01
+log02
+log1
+log2
+logan
+logapp
+logfile
+logfiles
+logger
+logging
+loghost
+login
+login 0
+login 0000
+login 1111
+login 8429
+login access
+login admin
+login password
+logitech
+logs
+lokita
+lol
+lolipop
+lolipop2
+lolita
+lollipop
+lollol
+lollypop
+london
+lonely
+long
+longbeach
+longhorns
+looker
+looking
+lopata
+lopez
+loran123
+lord1234
+lorena
+lorenzo
+lorraine
+losangeles
+loser
+lotus
+louie
+louise
+louisiana
+loulou
+lourdes
+love
+love12
+love123
+love2
+love2oo
+love4ever
+love6
+love8
+love9
+loveable
+lovebug
+lovee
+lovehurts
+lovel
+loveless
+lovelife
+lovelo
+lovelove
+lovely
+lovely1
+loveme
+loveme1
+loveo
+lover
+lover1
+loverboy
+lovergirl
+loverl
+lovers
+loves
+lovesucks
+loveu
+loveya
+loveyou
+loving
+lp
+lp 
+lp bin
+lp lineprin
+lp lp
+lpadm
+lpadm lpadm
+lpadmin
+lpadmin lpadmin
+lpassword
+lq2wee
+lq2wee4r
+lqaz2wsx
+lr
+ls
+lsxol
+lt
+lu
+lucas
+lucenttech1
+lucenttech2
+lucero
+luckfox
+lucky
+lucky1
+lucky7
+luckyl
+lucy99
+ludacris
+luisa
+luke
+luke1993
+lunita
+lupita
+lv
+ly
+lynx
+lynx 
+lynx lynx
+lyris
+m
+m0t0rhead
+m1122
+m1122 m1122
+m1link
+m1r4nd4
+m45t3rm1nd
+mMmM
+ma
+mac
+mac 
+mac1
+mac10
+mac11
+mac2
+mac3
+mac4
+mac5
+mach
+machine
+macintosh
+mackenzie
+mackousko
+macmac
+macromedia
+madalina
+maddie
+maddog
+madeline
+madison
+madman18
+madmax
+madonna
+madrid
+maganda
+magex
+maggie
+magic
+magnum
+mahal
+mahalkita
+mahalko
+mahalkoh
+mail
+mail 
+mail mail
+mail2
+mailadmin secret
+mailer
+mailgate
+mailhost
+mailing
+maillist
+maillists
+mailroom
+mailserv
+mailsite
+mailsrv
+main
+maine
+maine207
+mainstreet
+maint
+maint maint
+maint maintpw
+maint ntacdmax
+maint rwmaint
+maintain
+maintainer admin
+maintpw
+makayla
+maldita
+malibu
+mall
+mama1234
+mamapapa
+mamita
+man
+man 
+man man
+manage
+manage !manage
+management
+manager
+manager admin
+manager changeme
+manager friend
+manager manager
+manchester
+mandy
+manman
+manson
+manuel
+manuela
+manuf xxyyzz
+manufacturing
+manunited
+manutd
+map
+mapas
+maps
+mar1jane
+marcela
+marcelo
+march
+march2
+marchl
+marco
+marcos
+marcus
+margaret
+margarita
+maria
+maria1988
+mariah
+marian
+mariana
+maribel
+marie
+marie1
+mariel
+mariela
+marilyn
+marina
+marine
+marines
+mario
+marion
+mariposa
+marisa
+marisol
+marissa
+marius
+marjorie
+mark
+marketing
+marketplace
+marlboro
+marlene
+marley
+marlon
+married
+mars
+marshall
+martha
+martin
+martina
+martinez
+marvin
+mary
+mary password
+maryjane
+maryland
+mason
+massachusetts
+master
+master access
+master master
+master themaster01
+masterkey
+masterok
+mathew
+matrix
+matt
+matthew
+matthew1
+mature
+maureen
+maurice
+mauricio
+maverick
+max
+maxima
+maximus
+maxine
+maxwell
+maymay
+mayra
+mazafaka
+mc
+mc1029
+mci
+mckenzie
+mcknight88
+md
+mdaemon
+me
+me 
+me me
+media
+mediator
+mediator mediator
+medina
+medion
+megabit
+megan
+megatron
+meghan
+meinsm
+melanie
+melinda
+melisa
+melissa
+melody
+melvin
+member
+members
+mememe
+memphis
+mendoza
+mercedes
+mercury
+merlin
+mermaid
+messages
+messenger
+metallic
+metallica
+mexican
+mexico
+mexx6399
+mfd
+mfd mfd
+mg
+mgmt
+mh
+mhine
+mi
+miami
+miamor
+michael
+michael1
+michaela
+michaell
+micheal
+michel
+michelangelo
+michele
+michelle
+michelle1
+michigan
+mickey
+mickeymouse
+microbusiness
+microsoft
+midnight
+midwest
+mierda
+miguel
+mihaela
+mike
+mikeiscool
+mikel
+mikey
+milagros
+milkshake
+milkv
+miller
+millie
+milwaukee
+mine
+minime
+minneapolis
+minnesota
+minnie
+miracle
+miranda
+miriam
+mirror
+mirrormirror
+mis
+mississippi
+missouri
+missy
+mistress
+misty
+mitchell
+mk
+ml
+mlusr
+mlusr mlusr
+mm
+mmmmmm
+mn
+mngt
+mo
+mobile
+mobile dottie
+mobilemail
+moises
+mollie
+molly
+mom
+momdad
+mommy
+mommy1
+momof
+monday
+money
+money1
+monica
+monika
+monique
+monitor
+monitor monitor
+monitoring
+monkey
+monkey1
+monkey2
+monkeybutt
+monkeyl
+monkeyo
+monkeys
+monster
+montana
+moocow
+mookie
+moomoo
+moon
+moonlight
+moose
+morales
+morena
+moreno
+morgan
+morris
+moscow
+mother
+mother fucker
+motorola
+mountain
+mountfs
+mountfs mountfs
+mountfsys
+mountfsys mountfsys
+mountsys
+mountsys mountsys
+mouse
+movie
+movies
+mozart
+mp
+mp3
+mp3mystic
+mpeg
+mpegvideo
+mpg
+mq
+mr
+mrtg
+ms
+ms-exchange
+ms-sql
+msexchange
+mso w0rkplac3rul3s
+mssql
+mssql0
+mssql01
+mssql1
+mt
+mta
+mtch
+mtch mtch
+mtcl
+mtcl 
+mtcl mtcl
+mtu
+mu
+muffin
+muffinman
+mujama
+multimedia
+mummy
+mumuland
+munchkin
+munchkin10
+mupali
+murphy
+music
+musica
+mustang
+mustang70
+muze
+mv
+mvemjsunp
+mw
+mwmwmw
+mx
+my
+my_DEMARC
+myangel
+mybaby
+mykids
+mylife
+mylove
+myname
+mysecretpassword0*
+myself
+myspace
+myspace1
+mysql
+mysql0
+mysql01
+mysql1
+mysweex
+mz
+n
+n.a guardone
+n0d0ubt1
+n0ttelling
+na
+naadmin
+naadmin naadmin
+nadine
+naked
+name
+names
+nameserv
+nameserver
+nancy
+naruto
+nas
+nas123
+nascar
+nashville
+nat
+natalia
+natalie
+natasha
+nathan
+nathaniel
+naughty
+naynay
+nc
+ncadmin
+ncadmin ncadmin
+ncc1701
+ncc1701d
+ncrm
+ncrm ncrm
+nd
+nds
+ne
+nebraska
+negrita
+nelly
+nelson
+nemesis
+nemtom1
+nenita
+neptune
+nerdnerd
+net
+net101
+netadmin
+netadmin nimdaten
+netapp
+netbotz
+netbotz netbotz
+netdata
+netgear
+netgear1
+netlink
+netlink netlink
+netman
+netman 
+netman netman
+netmeeting
+netnet
+netopia
+netopia netopia
+netrangr attack
+netscaler
+netscreen
+netscreen netscreen
+netstats
+network
+nevada
+nevaeh
+new
+new_password
+newcastle
+newhampshire
+newjersey
+newlife
+newmexico
+neworleans
+newport
+news
+news 
+news news
+newsfeed
+newsfeeds
+newsgroups
+newton
+newyork
+newzealand
+nf
+nfmvta
+ng
+nh
+ni
+nicecti
+nicholas
+nichole
+nician
+nickjonas
+nicky
+nicola
+nicolas
+nicole
+nicole1
+nicole2
+nicolel
+nicoleo
+nigeria
+nigga
+nigger
+nightmare
+nigugu
+nike2008
+nikita
+nikki
+nimda
+nimdaten
+ninja
+nintendo
+nipple
+nipples
+nirvana
+nissan
+nitech
+nitram
+nj
+nl
+nm
+nm2user
+nm2user nm2user
+nms
+nms nmspw
+nmspw
+nntp
+no
+nobchan
+nobody
+nobody 
+nobody nobody
+node
+nokai
+nokia
+nombres
+none
+none 0
+none Wireless
+none admin
+none amber
+none letmein
+none none
+none public
+noodle
+noodles
+nopass
+nopasswd
+nopermission
+nora
+norman
+nortel
+north
+northcarolina
+northdakota
+northeast
+northwest
+not4u2c
+nothing
+noticias
+nottelling
+nova21
+novell
+november
+november2
+novemberl
+noway
+np
+npwfkl
+nr
+ns
+ns-
+ns0
+ns01
+ns02
+ns1
+ns2
+ns3
+ns4
+ns5
+nsa
+nsi
+nsroot
+nsroot nsroot
+nt
+nt4
+nt40
+ntacdmax
+ntmail
+ntp
+ntpupdate
+ntpupdate ntpupdate
+ntserver
+nttocn
+nu
+null
+number
+number1
+number66
+nursing
+nuucp 
+nv
+ny
+nz
+nz0u4bbe
+o
+oakland
+ocean
+oceans11
+ocnc123
+october
+october2
+octoberl
+odin
+odiotodo
+ods
+ods ods
+office
+offices
+offshore
+oh
+ohio
+ok
+oklahoma
+oklahomacity
+old
+oliver
+olivia
+om
+omaha
+omarion
+omega
+omfglol1
+omgomg123
+omicron
+omneon
+onelove
+online
+ontario
+ontology
+op
+op op
+op operator
+open
+openbsd
+openfiler password
+opengate
+openview
+operations
+operator
+operator 
+operator $chwarzepumpe
+operator 1234
+operator operator
+ops
+ops0
+ops01
+ops02
+ops1
+ops2
+opsware
+oqksad
+or
+oracle
+oracle 
+oracle oracle
+orange
+orangepi
+order
+orders
+oregon
+orion
+orlando
+orpheus
+oscar
+otbu+1
+ou812
+out
+outbound
+outgoing
+outlaw
+outlook
+outside
+ov
+overseer
+overseer overseer
+owa
+owa01
+owa02
+owa1
+owa2
+ows
+oxnard
+p
+p3t3rpan
+p@ssw0rd
+pa
+pa$$w0rd
+pa$$word
+pablo
+packard
+packers
+page
+pager
+pages
+paginas
+paige
+pakistan
+paloma
+pamela
+pancho
+panda
+pandemonium
+panget
+pangit
+pantera
+pantera69
+panther
+panthers
+panties
+paola
+papa
+papito
+par0t
+paradise
+paramore
+paris
+parker
+parmesan
+parners
+parola
+parolamea
+partner
+partners
+party
+pasaway
+pass
+pass123
+passion
+passion12
+passport
+passw0rd
+passw0rd1
+password
+password 
+password1
+password1`
+password2
+password201
+password209
+password55
+passwordl
+passwordo
+passwort
+patch
+patches
+pathology
+patito
+patricia
+patrick
+patrickb123
+patriots
+patrol
+patrol patrol
+paul
+paula
+paulina
+pauline
+paulo
+pavilion
+payroll
+payton
+pbx
+pbxk1064
+pc
+pc01
+pc1
+pc10
+pc101
+pc11
+pc12
+pc13
+pc14
+pc15
+pc16
+pc17
+pc18
+pc19
+pc2
+pc20
+pc21
+pc22
+pc23
+pc24
+pc25
+pc26
+pc27
+pc28
+pc29
+pc3
+pc30
+pc31
+pc32
+pc33
+pc34
+pc35
+pc36
+pc37
+pc38
+pc39
+pc4
+pc40
+pc41
+pc42
+pc43
+pc44
+pc45
+pc46
+pc47
+pc48
+pc49
+pc5
+pc50
+pc51
+pc52
+pc53
+pc54
+pc55
+pc56
+pc57
+pc58
+pc59
+pc6
+pc60
+pc7
+pc8
+pc9
+pcmail
+pda
+pdc
+pe
+peace
+peaches
+peanut
+pearljam
+pebbles
+pedro
+peekaboo
+peewee
+pegasus
+peluche
+pelusa
+pencil
+penelope
+penguin
+penis
+pennsylvania
+penny
+pento
+people
+peoplesoft
+pepper
+pepsi
+pepsi2008
+pepson
+perfect
+peribit
+permit
+personal
+pervert
+peter
+peter123
+peterpan
+petert999
+pf
+pfsense
+pg
+pgp
+ph
+phantom
+phi
+philadelphia
+philip
+phillip
+philly
+phishfood
+phoebe
+phoenix
+phoenix602
+phoeniz
+phone
+phones
+photos
+photoshop
+phpbb
+phplist
+phpreactor
+pi
+picard
+pickle
+pickles
+pics
+picture
+pictures
+picus
+pieceofshit
+pierre
+piggy
+piglet
+pikachu
+pilou
+pimp
+pimpin
+pimpl
+pineapple
+pink
+pink2
+pinkie
+pinkl
+pinko
+pinky
+piolin
+pipex-gw
+piranha
+piranha piranha
+piranha q
+pirate
+pirates
+pisces
+pitbull
+pittsburgh
+pix
+pixadmin
+pixadmin pixadmin
+pixmet2003
+pizza
+pizza42
+pk
+pki
+pl
+plano
+platinum
+playboy
+player
+playgirl
+playstation
+please
+plokijuh
+plopplop
+pluto
+pm
+pm1
+pmd 
+pn
+pnadmin
+pnadmin pnadmin
+po
+poepchinees
+pogiako
+poi098
+pokemon
+pokemon!
+police
+policy
+politcally correct
+politically correct
+poll
+poll poll
+poll tech
+pollito
+polls
+poloppolop
+pontiac
+poohbear
+poohl
+pookie
+poop
+poopie
+poopoo
+poopy
+pop
+pop3
+popcorn
+popeye
+popidc
+poppy
+porn
+porno
+porsche
+portakal1
+portal
+portals
+portfolio
+portland
+portugal
+post
+postales
+postgres
+postgres 
+postgres dbpass
+postgres svcPASS83
+postmast
+postmaster 
+postmaster postmast
+postoffice
+potter
+powder1
+power
+powerapp
+powerdown
+powerdown powerdown
+powermax
+powerpower
+ppmax2011
+ppp1
+ppp10
+ppp11
+ppp12
+ppp13
+ppp14
+ppp15
+ppp16
+ppp17
+ppp18
+ppp19
+ppp2
+ppp20
+ppp21
+ppp3
+ppp4
+ppp5
+ppp6
+ppp7
+ppp8
+ppp9
+pptp
+pr
+pr1v4t3
+prash hello
+preciosa
+precious
+prelude
+prensa
+prepaid
+press
+preston
+pretty
+prettygirl
+primat
+prime
+prime prime
+prime primeos
+primenet
+primenet primenet
+primenet primeos
+primeos
+primeos prime
+primeos primeos
+primos
+primos_cs prime
+primos_cs primos
+prince
+princes
+princesa
+princesita
+princess
+princess1
+princess2
+princessl
+princesso
+printer
+printserv
+printserver
+priv
+privacy
+private
+private ReadWrite access secret
+proba123
+problemtracker
+products
+profiles
+progr3ss
+project
+projects
+promise
+promo
+prost
+protection
+proxy
+prtgadmin
+prtgadmin prtgadmin
+prueba
+pruebas
+ps
+psi
+pss
+pswrdpswrd
+psycho
+pt
+pub
+publ1c
+public
+public 
+public ReadOnly access secret
+public public
+pubs
+pumpkin
+punkin
+punkrock
+puppies
+puppy
+puppylove
+purple
+purple1
+purplel
+pussies
+pussy
+pussy1
+pussycat
+pw
+pw pw
+pw pwpw
+pwp
+pwpw
+pwrchute
+pwrchute pwrchute
+py
+pyramid
+q
+q1q1q1
+q1q1q1q1
+q1q2q3q4
+q1w2e3r4
+q3kze7q
+qa
+qaz123
+qaz74123
+qazw1234
+qazwsx
+qazwsx!@#
+qazwsx123
+qazwsx123456
+qazwsxedc
+qazxsw2
+qazxswedc123
+qazzxc
+qmail
+qotd
+qpgmr
+qpgmr qpgmr
+qq123456
+qqqitx
+qqqqqq
+qscwdv
+qsecofr
+qsecofr 11111111
+qsecofr 22222222
+qsecofr qsecofr
+qserv
+qserv qserv
+qsrv
+qsrv qsrv
+qsrvbas
+qsrvbas qsrvbas
+qsvr
+qsvr ibmcel
+qsvr qsvr
+qsysopr
+qsysopr qsysopr
+quake
+quebec
+queen
+quepasa
+questra
+questra questra
+quotes
+quser
+quser quser
+qwas12
+qwe
+qwe123
+qwe123!@#
+qwe123.
+qweQWE123
+qweasd123
+qweasd789
+qweasdzxc2
+qweewq123
+qweqweqwe
+qwer
+qwerqaz
+qwert
+qwert12345
+qwerty
+qwerty09
+qwerty1
+qwerty12
+qwerty123
+qwerty1234567890
+qwerty7
+qwerty77
+qwertyl
+qwertyui
+qwertyuiop
+qwertz123
+r
+r01
+r02
+r1
+r2
+r@p8p0r+
+ra
+rabbit
+rachael
+rachel
+rachelle
+racing
+radio
+radius
+radware
+radware radware
+radxa
+rafael
+ragnarok
+rahasia
+raider
+raiders
+raidzone
+rainbow
+rais
+ramirez
+ramona
+random
+randy
+randy007
+ranger
+rangers
+rapidsite
+rapport r@p8p0r+
+raptor
+raquel
+raritan
+ras
+rascal
+raspberry
+raven
+raymond
+rayong1234
+rayray
+razor
+rc
+rcs
+rcust rcustpw
+rcustpw
+rd
+rdc123
+rdc123 rdc123
+re
+read
+read 
+read synnet
+read-only
+read-write
+readonly lucenttech2
+readwrite
+readwrite lucenttech1
+realmadrid
+realserver
+realtek
+rebecca
+rebel
+rebelde
+recover
+recover recover
+recovery
+recovery recovery
+recruiting
+red
+red123
+reddog
+redhat
+redhead
+redline
+redline redline
+redneck
+redorblue
+redpoint
+redrose
+redrum
+redskins
+redsox
+redwings
+ref
+reference
+reformation
+reg
+reggie
+regina
+regional
+register
+registro
+registry
+regs
+relay
+rem
+remember
+remote
+remstats
+renee
+replicator
+replicator replicator
+reports
+research
+reseller
+reserved
+restoreonly restoreonly1
+restoreonly1
+resumenes
+resumix
+revision
+rfmngr $rfmngr$
+rfnfyf
+rho
+rhodeisland
+ri
+ricardo
+richard
+richard#1
+richie
+ricky
+rihanna
+rikitiki
+riley
+ringer
+riobravo
+ripeop 
+ris
+rivera
+riverhead
+rje
+rje rje
+rmi
+rmnetlm
+rmon
+rmon_admin
+ro
+ro ro
+robbie
+robert
+roberta
+roberto
+robin
+robinson
+rochelle
+rock
+rocker
+rocket
+rockme
+rocknroll
+rockon
+rocks
+rockstar
+rocku
+rocky
+rockyou
+rodney
+rodopi
+rodopi rodopi
+rodrigo
+rodriguez
+roland
+role changethis
+role1
+role1 role1
+role1 tomcat
+rollerblade
+rolltide
+roman123
+romance
+romania
+romeo
+ronald
+ronaldinho
+ronaldo
+ronnie
+ronson
+roo honey
+rooney
+rooster
+root
+root 
+root  Serial port only 
+root !root
+root 00000000
+root 0P3N
+root 1111
+root 1234
+root 12345
+root 123456
+root 3ep5w2u
+root 54321
+root 666666
+root 7ujMko0admin
+root 7ujMko0vizxv
+root 888888
+root 8RttoTriz
+root Cisco
+root Mau'dib
+root Mau?dib
+root Mau’dib
+root NeXT
+root Password
+root QNX
+root ROOT500
+root TANDBERG
+root TENmanUFactOryPOWER
+root Zte521
+root admin
+root admin_1
+root alien
+root alpine
+root anko
+root ascend
+root attack
+root ax400
+root bagabu
+root blablabla
+root blender
+root brightmail
+root calvin
+root changeme
+root changethis
+root cms500
+root davox
+root dbps
+root default
+root dreambox
+root fibranne
+root fivranne
+root ggdaseuaimhrke
+root hi3518
+root honey
+root iDirect
+root ibm
+root ikwb
+root jstwo
+root juantech
+root jvbzd
+root klv123
+root klv1234
+root kn1TG7psLu
+root letacla
+root letmein
+root logapp
+root mozart
+root mpegvideo
+root nsi
+root par0t
+root pass
+root passw0rd
+root password
+root permit
+root pixmet2003
+root powerapp
+root realtek
+root resumix
+root root
+root rootadmin
+root rootme
+root rootpass
+root router
+root system
+root t00lk1t
+root t0talc0ntr0l4!
+root tini
+root toor
+root trendimsa1.0
+root tslinux
+root uClinux
+root user
+root vertex25
+root vizxv
+root wyse
+root xc3511
+root xmhdipc
+root zlxx.
+root123
+root1234
+root4
+root@localhost root
+roota
+rootadmin
+rootme
+rootpass
+rootroot
+rosario
+rose
+rosebud
+rosedale
+roses
+rosie
+rosita
+rotrot
+round123
+route
+router
+router1
+roxana
+roxanne
+rs
+rsadmin
+rsadmin 
+rsadmin rsadmin
+rss
+rtelnet
+rtr
+rtr01
+rtr1
+ru
+ruben
+runder
+rune
+runescape
+runner
+rush2112
+russell
+russia
+rusty
+rutabaga
+rw
+rw rw
+rwa
+rwa rwa
+rwhois
+rwmaint
+ryan
+ryanl
+s
+s!a@m#n$p%c
+s1
+s2
+s3cret
+s3cur3d
+sa
+sa 
+sa Ektron
+sabrina
+sac
+sacramento
+sadie
+sadmin
+sadmin 
+safe
+sagitario
+sailor
+saints
+sakura
+salamander
+sales
+sallasana
+sally
+salope
+saltlake
+salvador
+sam
+samantha
+sammie
+sammy
+samson
+samsun
+samsung
+samsung34
+samuel
+san
+san-fran
+sanantonio
+sanayounes
+sanchez
+sandiego
+sandman
+sandra
+sandy
+sanfran
+sanfrancisco
+sanjose
+santana
+santiago
+santos
+sap123
+sapphire
+sarah
+sarita
+sasha
+saskatchewan
+sasman
+sassy
+sasuke
+satan 
+saturn
+savage
+savanna
+savannah
+savelogs crash
+sayang
+saynomore
+sb
+sbs
+sc
+scanner
+scarface
+schedules
+school
+scifix
+sclg
+scmadmin scmchangeme
+scmchangeme
+scooby
+scoobydoo
+scooter
+scorpio
+scorpion
+scotland
+scott
+scott tiger or tigger
+scotty
+scout
+scout scout
+scrappy
+scruffy
+sd
+se
+search
+seattle
+sebastian
+sec
+secacm
+secofr
+secofr secofr
+secret
+secure
+secure123
+secure6
+secured
+securid
+security
+security security
+sedacm secacm
+seekanddestroy
+selena
+semmi
+semperfi
+sendmail
+senioro
+september
+serena
+serenity
+sergio
+seri
+serial#
+serial# serial#
+sertafu
+serv
+serv2
+server
+server1
+servers
+service
+service service
+service smile
+services
+servicio
+servidor
+servlet manager
+setmefree
+setpriv system
+setup
+setup 
+setup changeme
+setup changeme!
+setup setup
+setup/nopasswd
+setup/snmp setup/nopasswd
+seven
+seventeen
+sexsex
+sexy
+sexy2
+sexy6
+sexybabe
+sexybaby
+sexybitch
+sexygirl
+sexyl
+sexylady
+sexylove
+sexymama
+sexyme
+sexyo
+sg
+sh
+shadow
+shadow1
+shadowl
+shaggy
+shakira
+shakyamuni
+shalom
+shane
+shannon
+shared
+sharepoint
+shareware
+sharon
+shasha
+shaved
+shawn
+shawty
+sheena
+sheila
+shelby
+shelly
+shin
+shineonyou
+shipping
+shirley
+shit
+shithead
+shiva
+shooter
+shop
+shoppers
+shopping
+shorty
+shortyl
+shs
+shuriken
+shutdown
+shutdown 
+shutdown shutdown
+shutup
+si
+sidney
+siebel
+siem
+siemens123
+siempre!
+sierra
+sigma
+signa
+signa signa
+signin
+signup
+silver
+silvia
+sim
+simba
+simon
+simonb
+simone
+simple
+simpleplan
+simpson
+simpsons
+singer
+single
+sirius
+sister
+sisters
+site
+siteadmin toplayer
+sitecom
+sj
+sk
+skate
+skater
+skipper
+skippy
+skittles
+skyler
+skyline
+skysky21
+skywalker
+sl
+slackware
+slayer
+sldkj754
+slideshow
+slipknot
+slmail
+slut
+sluts
+sm
+sma
+smallbusiness
+smallville
+smc
+smc smcadmin
+smcadmin
+smelly
+smile
+smiles
+smiley
+smith
+smokey
+smooth
+sms
+smtp
+smtphost
+smudge
+sn
+snake
+snake 
+snickers
+sniffer
+sniper
+snmp
+snmp nopasswd
+snmp snmp
+snmp-Trap
+snmpd
+snmptrap
+snoopy
+snort
+snowball
+snowflake
+snowman
+snuggles
+so
+soap
+socal
+soccer
+soccer1
+soccer2
+soccerl
+soccero
+socent
+sofia
+sofresh
+softball
+softballl
+software
+software software
+sofuck
+sol
+solaris
+soledad
+solutions
+something
+somtik
+sonia
+sophia
+sophie
+soporte
+sosict
+soulmate
+source
+sourcecode
+sourcesafe
+south
+southcarolina
+southdakota
+southeast
+southside
+southwest
+sp99dd
+spacemonkeys
+spain
+spam
+spanky
+sparkle
+sparky
+spcl 0
+spcl 0000
+special
+specialist
+speedxess
+speedy
+spencer
+spider
+spiderma
+spiderman
+spike
+spike04
+spirit
+spitfire
+splunk
+spock
+spoiled
+spokane
+sponge
+spongebob
+spooky
+spooml
+sporting
+sports
+spring
+springfield
+sprint
+sprite
+sq!us3r
+sqa
+sql
+sql0
+sql01
+sql1
+sql7
+sqlserver
+squ1rrel
+squid
+squirt
+sr
+srinivas
+ss
+ssh
+ssl
+ssl0
+ssl01
+ssl1
+ssladmin
+ssladmin ssladmin
+ssp
+ssp ssp
+st
+stacey
+staff
+stage
+staging
+stanley
+star
+starfish
+starfive
+stargate
+stark123
+starl
+starlight
+stars
+start
+start123
+startrek
+starwars
+stat
+state119
+static
+statistics
+stats
+stay-off
+steaua
+steelers
+stefan
+stella
+steph
+stephanie
+stephen
+steve
+steven
+stevie
+stewart
+sticky
+stingray
+stinky
+stlouis
+stock
+storage
+storageserver
+store
+storefront
+stormy
+storwatch specialist
+strasburg
+stratacom stratauser
+stratauser
+stratfor
+strawberry
+streaming
+strike
+stronghold
+strongmail
+stuart
+student
+studio
+stupid
+su super
+sublime
+submit
+subversion
+success
+suck
+sucker
+suckit
+suckme
+sucks
+sugar
+summer
+summero
+sun
+sun0
+sun01
+sun02
+sun1
+sun12345
+sun2
+sunflower
+sunny
+sunset
+sunsh1ne!
+sunshine
+sunshine1
+sunvision
+super
+super 5777364
+super super
+super superpass
+super surt
+super.super 
+super.super master
+superadmin secret
+superdba admin
+supergeil
+supergirl
+superman
+superman 21241036
+superman talent
+superpass
+superstar
+superstart
+superuser
+superuser 
+superuser 123456
+superuser admin
+superuser asante
+superuser superuser
+supervisor
+supervisor 
+supervisor PlsChgMe
+supervisor supervisor
+supervisor visor
+supplier
+suppliers
+support
+support 
+support h179350
+support support
+support supportpw
+supportpw
+surecom
+surfer
+surt
+susana
+suzanne
+suzuki
+sv
+svcPASS83
+sw
+sw0
+sw01
+sw1
+sweden
+sweet
+sweet16
+sweetheart
+sweetie
+sweetl
+sweetness
+sweetpea
+sweets
+sweety
+sweex mysweex
+swimmer
+swimming
+switch
+switzerland
+swordfis
+swordfish
+sy
+sy123456
+sybase
+sydney
+symantec
+symbol
+sync
+sync 
+sync sync
+synnet
+sys
+sys bin
+sys change_on_install
+sys sys
+sys system
+sys uplink
+sys/change_on_install
+sysAdmin
+sysadm
+sysadm Admin
+sysadm admin
+sysadm admpw
+sysadm anicust
+sysadm sysadm
+sysadm sysadmpw
+sysadm syspw
+sysadmin
+sysadmin PASS
+sysadmin nortel
+sysadmin password
+sysadmin sysadmin
+sysadmpw
+sysback
+sysbin
+sysbin sysbin
+syslib
+syslog
+syslogs
+sysopr
+sysopr sysopr
+syspw
+system
+system adminpwd
+system field
+system hdms
+system isp
+system manager
+system password
+system prime
+system security
+system sys
+system system
+system weblogic
+system/manager sys/change_on_install
+system1
+system32
+system_admin
+system_admin 
+system_admin system_admin
+sysu
+sz
+t
+t00lk1t
+t00tt00t
+t0ch20x
+t0ch88
+t0m&j3rry
+t0talc0ntr0l4!
+t1m3l0rd
+t3admin Trintech
+taco66
+tacoma
+tagada
+tagged
+taiwan
+taki
+talent
+talk
+tamara
+tampa
+tanglefoot
+tango
+tania
+tanner
+tarantula1
+target password
+tarheels
+tasha
+tasman tasmannet
+tasmannet
+tatercounter2000
+tatiana
+tattoo
+tau
+taurus
+taylor
+taytay
+tazmania
+tc
+tcl
+td
+tdvcth
+te
+teX1
+teacher
+teacher password
+team
+teamo
+teamomucho
+tech
+tech 
+tech User
+tech field
+tech nician
+tech tech
+technolgi
+technology
+techsupport
+teddy
+teddybear
+teen
+teens
+teiubesc
+tekiero
+telco
+telco telco
+tele
+tele tele
+telecom
+telecom telecom
+telefone
+telephone
+telephony
+tellabs tellabs#1
+tellabs#1
+telnet
+telos
+temp
+temp1 password
+temp11
+temp1234
+temp12345
+temppass
+temppwd
+tennessee
+tennis
+tequiero
+tequieromucho
+tequila
+teresa
+term1nat0r
+terminal
+terminalserver
+termserv
+terrell
+terry
+test
+test test
+test1
+test100
+test123
+test1234
+test2
+test2k
+testajax
+testasp
+testaspnet
+testbed
+testcf
+tester
+testing
+testjsp
+testlab
+testlinux
+testpass
+testphp
+testserver
+testsite
+testsql
+testtest
+testxp
+texas
+tf
+tftp
+tg
+th
+thailand
+the
+thebest
+thegame
+theman
+theman changeit
+themaster01
+theone
+theresa
+therock
+theta
+theused
+thisisapassword1
+thomas
+thor
+three4me
+throwaway
+thuglife
+thumper
+thunder
+thx1138
+tiara tiaranet
+tiaranet
+tickle
+tienda
+tiffany
+tiger
+tiger tiger123
+tiger1
+tiger123
+tigers
+tigger
+tigger1
+tiggerl
+time
+time_out
+timely
+timmy
+timothy
+tini
+tinker
+tinkerbell
+tintin
+tiny
+titan
+titanic
+titkos
+tits
+tiv0li
+tivoli
+tivonpw
+tj
+tj1234
+tk
+tlah
+tm
+tmp123
+tn
+to
+tokiohotel
+tokyo
+toledo
+tom
+tomcat
+tomcat changethis
+tomcat tomcat
+tommy
+tony
+tool
+tools
+toor
+toor logapp
+tootsie
+topgun
+topicalt password
+topicnorm password
+topicres password
+toplayer
+topsecret
+toptop
+tornado@
+toronto
+torres
+toshy99
+totototo
+touchpwd=
+tour
+tour tour
+toyota
+tp
+tr
+tr650
+tracey
+tracker
+trade
+train
+training
+trancell
+transfers
+trap
+travis
+trendimsa1.0
+trevor
+triangulation
+trinidad
+trinity
+triptrap
+trisha
+tristan
+trixie
+trmcnfg
+trmcnfg trmcnfg
+trooper
+trouble
+trouble trouble
+trucks
+truelove
+trustno
+trustno1
+ts
+ts1
+tslinux
+tt
+tucker
+tucson
+tuff1234
+tulsa
+tunix
+tunnel
+turkey
+turnkey
+turtle
+tutor
+tutor 
+tutor tutor
+tuxalize
+tv
+tw
+tweety
+tweetybird
+tweetyl
+twilight
+twinkle
+twins
+tx
+tyler
+tyrone
+tyson
+tz
+u
+uClinux
+ua
+ubnt
+ubnt ubnt
+uboot
+ubuntu
+ucsucs
+uddi
+ug
+uk
+um
+umountfs
+umountfs umountfs
+umountfsys
+umountfsys umountfsys
+umountsys
+umountsys umountsys
+undertaker
+unicorn
+uniform
+union
+unique
+united
+united123
+united99
+unitedkingdom
+unitedstates
+unix
+unix unix
+unixware
+update
+updates
+uplink
+upload
+ups
+upsilon
+uranus
+urchin
+us
+usa
+usenet
+user
+user 
+user USERP
+user pass
+user password
+user public
+user tivonpw
+user user
+user user0000
+user0000
+userNotU
+userNotUsed userNotU
+user_analyst demo
+user_approver demo
+user_author demo
+user_checker demo
+user_designer demo
+user_editor demo
+user_expert demo
+user_marketer demo
+user_pricer demo
+user_publisher demo
+username password
+users
+usher
+usulll
+ut
+utah
+utilities
+uucp
+uucp uucp
+uucpadm
+uucpadm uucpadm
+uy
+uz
+v
+v6
+va
+vader
+vagina
+vagrant
+valentin
+valentina
+valentine
+valentino
+valeria
+valerie
+vampire
+vanesa
+vanessa
+vanilla
+vantive
+vatefairefoutre
+vatten
+vault
+vc
+vcr NetVCR
+ve
+vega
+vegas
+vegeta
+vend
+vendors
+venigo
+ventilator
+venus
+vermont
+veronica
+vertex25
+vfnmdfie
+vg
+vgnadmin
+vgnadmin vgnadmin
+vi
+vicky
+victor
+victoria
+victory
+video
+videos
+vienna12
+vienna88
+viewer 
+viewmaster
+viewuser viewuser1
+viewuser1
+viking
+vikings
+vince123
+vincent
+violet
+violeta
+vip
+viper
+virgin
+virginia
+virginia11
+virgo
+vishal123
+vision
+vision2
+visor
+vista
+visual
+vitaly
+vitesse
+vivian
+viviana
+vivivi
+vizxv
+vlis
+vm
+vmserver
+vmware
+vn
+vnc
+voadmin manager
+voice
+voicemail
+voip
+voip123
+volcom
+volition
+volition 
+volition volition
+volleyball
+voodoo
+voyager
+vpasp
+vpasp vpasp
+vpn
+vpn0
+vpn01
+vpn02
+vpn1
+vpn2
+vt
+vt100 public
+vu
+w
+w00tw00t
+w0rkplac3rul3s
+w1
+w2
+w2402
+w3
+w8w00rd
+wa
+wachtwoord
+wais
+walker
+wallace
+wallet
+walter
+wam
+wampp
+wan
+wanker
+wanmei
+wap
+warcraft
+warehouse
+warpdrive
+warren
+warrior
+warriors
+washington
+water
+waterfire12
+watermelon
+wave123
+wayne
+wc3
+weasel
+web
+web 
+web web
+webaccess
+webadmin
+webadmin 1234
+webadmin webadmin
+webadmin webibm
+webalizer
+webboard
+webcache
+webcam
+webcast
+webdev
+webdocs
+webfarm
+webhelp
+webibm
+weblib
+weblink
+weblogic
+weblogic weblogic
+webmail
+webmaster
+webmaster 
+webmaster webmaster
+webproxy
+webring
+webs
+websecadm changeme
+webserv
+webserver
+webservices
+website
+websites
+websphere
+websrv
+websrvr
+webstats
+webstore
+websvr
+webtrends
+weeslz
+welcome
+welcome1
+wendimia
+wendy
+wesley
+west
+west123
+westlife
+westside
+westvirginia
+wf
+wg
+whatever
+whiskey
+white
+whitebird
+whitney
+whois
+whore
+whynot
+wi
+wibbles
+wichita
+wicked
+wiki
+wildcat
+wildcats
+wililiam
+william
+williams
+willie
+willow
+wilson
+win
+win01
+win02
+win1
+win2
+win2000
+win2003
+win2k
+win2k3
+windows
+windows01
+windows02
+windows1
+windows2
+windows2000
+windows2003
+windows7
+windowsxp
+wingate
+winner
+winnie
+winnt
+winproxy
+wins
+winserve
+winston
+winston1
+winter
+winterm
+winxp
+wipro123
+wire
+wireless
+wisconsin
+wizard
+wjltnt
+wlan
+wlcsystem
+wlcsystem wlcsystem
+wlpisystem
+wlpisystem wlpisystem
+wlse wlsedb
+wlsedb
+wlsepassword
+wlseuser wlsepassword
+wodj
+woelco
+wolf
+wolfgang
+wolfpack
+wolverin
+wolves
+wombat
+women
+woody
+wordpress
+work
+world
+wpad
+wradmin trancell
+wrestling
+wrgg15_di524
+write
+write 
+write private
+write synnet
+ws
+ws1
+ws10
+ws11
+ws12
+ws13
+ws2
+ws3
+ws4
+ws5
+ws6
+ws7
+ws8
+ws9
+wusage
+wutang
+wv
+ww
+www
+www 
+www www
+www-
+www-01
+www-02
+www-1
+www-2
+www-int
+www0
+www01
+www02
+www1
+www2
+www3
+wwwchat
+wwwdev
+wwwmail
+wy
+wyoming
+wyse
+x
+x-admin
+x-ray
+x40rocks
+x6zynd56
+xampp
+xavier
+xbox
+xbox xbox
+xbox360
+xboxe6
+xc3511
+xceladmin
+xd
+xd xd
+xdfk9874t3
+xdr56tfc
+xerox
+xi
+xiazhi
+ximena
+xinmen
+xitgmLwmp
+xljlbj
+xlogan
+xmail
+xmhdipc
+xmi_demo sap123
+xml
+xmux
+xo11nE
+xp
+xpsm1210
+xunlei
+xupamisto
+xxxx
+xxxxx
+xxxxxx
+xxxxxxxx
+xxyyzz
+xyuxyu
+xyzall
+xyzzy
+y
+yabadabadoo
+yahoo
+yakiniku
+yamaha
+yankee
+yankees
+yasmin
+ye
+year2000
+yellow
+yellow123
+yellow22
+yes90125
+yesenia
+yolanda
+yomama
+young
+yourmom
+yourock
+yousuck
+yoyoyo
+yt
+ytrewq
+yu
+yugioh
+yuiop
+yvette
+yvonne
+yyl
+z
+z-log
+z0x9c8v7
+za
+zacefron
+zachary
+zaq1@WSX
+zaq1xsw2
+zaq1xsw2cde3
+zaqwsxcde
+zaxscdvf
+zazazaza
+zbaaaca
+zebra
+zeosx
+zera
+zero0zero
+zero2hero
+zeus
+zjaaadc
+zlog
+zlxx.
+zm
+zmalqp10
+zodiac666
+zombie
+zoomadsl
+zse4rfv
+zulu
+zw
+zxcpoi123
+zxcvbn
+zxcvbnm
+zzzz
+zzzzzz
