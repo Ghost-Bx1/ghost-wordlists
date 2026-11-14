@@ -16,7 +16,7 @@
 
 Colecao de wordlists e ferramentas de brute force focadas no contexto brasileiro e internacional.
 WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
-**3.000.000+ entradas** entre listas especializadas. Inclui John the Ripper, darkc0de, Metasploit, SecLists, Probable-Wordlists e fontes BR.
+**3.400.000+ entradas** entre listas especializadas. Inclui John the Ripper, darkc0de, Metasploit, SecLists, Wifite, vazamentos reais (Fortinet 2021, darkweb, xato-net, NordVPN) e fontes BR.
 
 ---
 
@@ -24,12 +24,13 @@ WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
 
 | Arquivo | Entradas |
 |---------|----------|
-| `misto/kali-mega.txt` | **3.181.965** (John the Ripper + darkc0de + Metasploit) |
-| `misto/top10k-brasil.txt` | **65.770** (mega BR deduplicada) |
+| `misto/kali-mega.txt` | **3.187.605** (John + darkc0de + Metasploit + NCSC + probable) |
+| `misto/vazamentos-globais.txt` | **99.140** (Fortinet 2021, darkweb10k, xato10k, hak5, NordVPN) |
+| `misto/top10k-brasil.txt` | **155.129** (mega BR deduplicada) |
 | `misto/senhas-externas-br.txt` | 37.972 (fontes BR externas) |
 | `misto/top-globais.txt` | 12.242 (SecLists top-10k + RockYou-5k) |
 | `servicos/metasploit-defaults.txt` | 8.231 (Metasploit service defaults) |
-| `wifi/wpa-probable.txt` | 4.925 (WPA8+ chars, alta probabilidade) |
+| `wifi/wpa-probable.txt` | **6.320** (Wifite2 + WPA8+ probable, alta probabilidade) |
 | `wifi/nomes-com-ano.txt` | 5.776 |
 | `wifi/brasil-senhas-comuns.txt` | 691 |
 | `wifi/religiao-brasil.txt` | 484 |
@@ -75,8 +76,9 @@ ghost-wordlists/
 ├── corporativo/                 # Senhas corporativas / ambientes empresa
 │   └── senhas-corporativas.txt     # Mudar@, Acesso@, mes+ano, TI, RH (459)
 ├── misto/                       # Compilados e cross-categorias
-│   ├── kali-mega.txt               # MEGA Kali: John + darkc0de + MSF (3.181.965)
-│   ├── top10k-brasil.txt           # Mega BR deduplicada (65.770)
+│   ├── kali-mega.txt               # MEGA Kali: John + darkc0de + MSF + NCSC (3.187.605)
+│   ├── vazamentos-globais.txt      # Vazamentos reais: Fortinet, darkweb, xato, NordVPN (99.140)
+│   ├── top10k-brasil.txt           # Mega BR deduplicada (155.129)
 │   ├── senhas-externas-br.txt      # Fontes BR externas integradas (37.972)
 │   ├── top-globais.txt             # SecLists top + RockYou-5k (12.242)
 │   ├── top-br-combinado.txt        # Combinado de top categorias (413)
@@ -88,7 +90,7 @@ ghost-wordlists/
 │   ├── metasploit-defaults.txt     # Defaults de servicos - Metasploit (8.231)
 │   └── senhas-servicos.txt         # Senhas padrao de servicos e hardware (283)
 ├── wifi/ (adicional)
-│   └── wpa-probable.txt            # WPA passwords 8-63 chars alta prob (4.925)
+│   └── wpa-probable.txt            # WPA passwords 8-63 chars - Wifite2 + probable (6.320)
 ├── web/                         # Aplicacoes web / CMS
 │   ├── usuarios-web.txt            # Usuarios de CMS, paineis, intranet
 │   └── senhas-webapp.txt           # Senhas fracas em ambientes web brasileiros (261)
