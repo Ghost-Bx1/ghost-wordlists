@@ -1,0 +1,398 @@
+# Senhas relacionadas a esportes no Brasil alem do futebol
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wordlists
+
+# --- MMA / UFC ---
+ufc
+Ufc
+ufc123
+Ufc123
+mma
+Mma
+mma123
+Mma123
+anderson
+Anderson
+andersonsilva
+Anderson Silva
+andersonsilva123
+AndersonSilva123
+andersonsilva123456
+pires
+vitor
+Vitor
+vitorbeirão
+beirão
+belfort
+Belfort
+belfort123
+Belfort123
+wanderlei
+Wanderlei
+wanderlei123
+Wanderlei123
+wanderleisilva
+jos
+Jose
+josealdo
+josealdo123
+Josealdo123
+josealdo456
+ufc123456
+mma123456
+luta123
+Luta123
+luta@123
+# --- Volei ---
+volei
+Volei
+volei123
+Volei123
+voleibol
+Vôlei
+vôlei
+volleyball
+Volleyball
+volleyball123
+giba
+Giba
+giba123
+Giba123
+scheila
+Scheila
+scheila123
+Scheila123
+jacqueline
+fabiana
+Fabiana
+fabiana123
+brasil volei
+brasilvôlei
+orvôlei
+# --- Natação ---
+natação
+natacao
+Natacao
+Natação
+natacao123
+Natacao123
+nicholas
+Nicholas
+thiago pereira
+thiagopereira
+thiagopereira123
+# --- Atletismo ---
+atletismo
+Atletismo
+atletismo123
+# --- Tênis ---
+tenis
+Tênis
+tenis123
+Tenis123
+guga
+Guga
+guga123
+Guga123
+gustavo
+gustavo kuerten
+kuerten
+Kuerten
+kuerten123
+Kuerten123
+gustavo123
+# --- Basquete ---
+basquete
+Basquete
+basquete123
+Basquete123
+nba
+NBA
+nba123
+NBA123
+leandro
+leandrobarbosa
+LeandroBarbosa
+leandrobarbosa123
+anderson varejão
+andersonvarejao
+andersonvarejao123
+# --- Automobilismo / F1 ---
+f1
+F1
+formula1
+Formula1
+formula1123
+F1123
+piquet
+Piquet
+piquet123
+senna
+Senna
+senna123
+Senna123
+ayrton
+Ayrton
+ayrton123
+Ayrton123
+airtonsenna
+AyrtonSenna
+ayrton senna
+ayrton123456
+senna94
+# --- Surf ---
+surf
+Surf
+surf123
+Surf123
+gabriel medina
+gabrielmedina
+GabrielMedina
+gabrielmedina123
+GabrielMedina123
+medina
+Medina
+medina123
+Medina123
+ítalo
+italo
+Italo
+italoferreira
+ItaloFerreira
+italoferreira123
+# --- Ciclismo ---
+ciclismo
+Ciclismo
+ciclismo123
+nairo
+nairo123
+# --- Skate ---
+skate
+Skate
+skate123
+Skate123
+rayssa
+Rayssa
+rayssa123
+Rayssa123
+rayssaleal
+RayssaLeal
+rayssaleal123
+# --- Olimpiadas ---
+olimpiadas
+Olimpiadas
+olimpiadas123
+Olimpiadas123
+olimpiadas2024
+Olimpiadas2024
+jogos
+Jogos
+jogos123
+ouro
+Ouro
+ouro123
+Ouro123
+prata
+Prata
+prata123
+bronze
+Bronze
+bronze123
+campeao olimpico
+campeaoolimpico
+medalha
+Medalha
+medalha123
+# --- Jiu-Jitsu / Gracie ---
+jiujitsu
+JiuJitsu
+jiujitsu123
+JiuJitsu123
+bjj
+BJJ
+bjj123
+BJJ123
+gracie
+Gracie
+gracie123
+Gracie123
+graciebjj
+# --- Halterofilismo / Crossfit ---
+crossfit
+Crossfit
+crossfit123
+Crossfit123
+musculação
+musculacao
+Musculacao
+musculacao123
+academia
+Academia
+academia123
+Academia123
+# --- Palavras de esporte generico ---
+campeao
+Campeao
+campeao123
+Campeao123
+gol
+Gol
+gol123
+Gol123
+bola
+Bola
+bola123
+Bola123
+jogo
+Jogo
+jogo123
+Jogo123
+time
+Time
+time123
+Time123
+placar
+Placar
+placar123
+goleiro
+Goleiro
+goleiro123
+zagueiro
+Zagueiro
+zagueiro123
+atacante
+Atacante
+atacante123
+meia
+Meia
+meia123
+# --- Copa do Mundo 2026 ---
+copa2026
+Copa2026
+copa26
+Copa26
+brasil2026
+Brasil2026
+mundial2026
+Mundial2026
+hexa2026
+Hexa2026
+# --- Outras expressoes esportivas ---
+esporte
+Esporte
+esporte123
+Esporte123
+treino
+Treino
+treino123
+Treino123
+campeonato
+Campeonato
+campeonato123
+Campeonato123
+torneio
+Torneio
+torneio123
+estadio
+Estadio
+estadio123
+torcida
+Torcida
+torcida123
+# --- Esportes de aventura ---
+kitesurf
+Stand Up
+stand up
+sup123
+standup123
+bodyboard
+Bodyboard
+bodyboard123
+mergulho
+Mergulho
+mergulho123
+rappel
+Rappel
+rappel123
+escalada
+Escalada
+escalada123
+trilha
+Trilha
+trilha123
+# --- Esportes eletrônicos (eSports) ---
+esports
+eSports
+esports123
+eSports123
+freefire
+FreeFire
+freefire123
+FreeFire123
+pubg
+PUBG
+pubg123
+PUBG123
+valorant
+Valorant
+valorant123
+Valorant123
+csgo
+CSGO
+csgo123
+CSGO123
+# Counter-Strike
+cs
+cs123
+cs@123
+CS@123
+1.6
+counterstrike
+CounterStrike
+counterstrike123
+# League of Legends
+lol
+LOL
+lol123
+LOL123
+league
+League
+league123
+# Dota
+dota
+Dota
+dota123
+Dota123
+dota2
+Dota2
+# Minecraft
+minecraft
+Minecraft
+minecraft123
+Minecraft123
+# Roblox
+roblox
+Roblox
+roblox123
+Roblox123
+# --- Times de outros esportes ---
+botafogo basket
+botafogo123
+flamengo basket
+flamengo basket123
+# --- Numeros de camisa famosos ---
+camisa10
+camisa9
+camisa7
+camisa11
+numero10
+numero9
+numero7
+meia10
+centroavante9
+camisa1
+camisa2
+camisa3
+camisa4
+camisa5
+camisa6
+camisa8

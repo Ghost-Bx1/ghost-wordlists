@@ -1,0 +1,455 @@
+# Compilado de senhas mais comuns no Brasil - top combinado
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wordlists
+# Inclui: nomes, times, ISPs, corporativo, religioso, leet, datas, vazamentos
+
+# --- TOP senhas por freq de uso BR ---
+123456
+12345678
+123456789
+1234567890
+senha123
+senha1234
+senha12345
+brasil123
+brasil2024
+123abc
+abc123
+qwerty123
+1q2w3e4r
+iloveyou
+amor123
+jesus123
+deus123
+flamengo123
+corinthians123
+palmeiras123
+santos123
+Flamengo123
+Corinthians123
+Palmeiras123
+Santos123
+inter123
+gremio123
+vasco123
+botafogo123
+cruzeiro123
+atletico123
+spfc123
+bahia123
+fortaleza123
+ceara123
+# Nomes comuns
+joao123
+pedro123
+maria123
+ana123
+gabriel123
+lucas123
+rafael123
+matheus123
+felipe123
+thiago123
+julia123
+mariana123
+amanda123
+fernanda123
+camila123
+beatriz123
+# Combinacoes de teclado
+1q2w3e4r5t
+qwerty12345
+q1w2e3r4t5
+zxcvbn123
+asdfgh123
+# Padroes @ e !
+Senha@123
+Admin@123
+Brasil@123
+Mudar@123
+Acesso@123
+Empresa@123
+Janeiro@2024
+Fevereiro@2024
+Marco@2024
+Abril@2024
+Maio@2024
+Junho@2024
+Julho@2024
+Agosto@2024
+Setembro@2024
+Outubro@2024
+Novembro@2024
+Dezembro@2024
+Janeiro@2025
+Fevereiro@2025
+Marco@2025
+Abril@2025
+Maio@2025
+Junho@2025
+Julho@2025
+Agosto@2025
+Setembro@2025
+Outubro@2025
+Novembro@2025
+Dezembro@2025
+# Times + ano atual
+flamengo2024
+flamengo2025
+corinthians2024
+corinthians2025
+palmeiras2024
+palmeiras2025
+santos2024
+gremio2024
+inter2024
+atletico2024
+cruzeiro2024
+vasco2024
+botafogo2024
+fluminense2024
+bahia2024
+# Senhas religiosas mais comuns
+jesus
+deus
+Deus123
+Jesus123
+jesus@123
+Jesus@123
+evangélico
+evangelico123
+# Senhas de WiFi mais comuns no Brasil
+minharedes
+minharede123
+wificasa
+wificasa123
+internetcasa
+internetcasa123
+minhainternet
+minhainternet123
+wifi123
+wifi1234
+senha wifi
+senhawifi
+senhawifi123
+# Senhas de provedores mais comuns
+vivo12345
+claro12345
+net12345
+gvt12345
+tim12345
+oi12345
+vivo123456
+claro123456
+net123456
+gvt123456
+tim123456
+oi123456
+# Defaults de roteador
+admin123
+password123
+1234567890
+# Corporativo padrão BR
+Mudar@123
+Acesso@123
+Senha@123
+Admin@123
+# Padroes comuns de senha fraca mas "complexa"
+P@ssw0rd
+P@ssword
+Passw0rd1
+Brasil@2024
+Brasil@2025
+# Extra populares
+cachorro123
+gato123
+moto123
+carro123
+casa123
+# Nomes proprios + 123
+Silva123
+santos123
+oliveira123
+souza123
+pereira123
+costa123
+lima123
+ferreira123
+carvalho123
+# Anos simples como senha
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+# Combinacoes comuns
+meuamor123
+minhalinda123
+meuvida123
+minhamae123
+meupai123
+meufilho123
+minhafilha123
+# Leet comuns
+s3nha123
+@dmin123
+p@ss123
+# WiFi SSID-based
+gvt-wifi123
+vivo-wifi123
+claro-wifi123
+net-wifi123
+# Social eng passwords
+primeirodia123
+ultimodia123
+meucel123
+meufone123
+minha senha
+minha_senha
+minha.senha
+meu_nome
+meu.nome
+# Senhas de vazamentos mais comuns no Brasil
+123456789a
+a123456789
+1234567a
+abcdef123
+abc12345
+abc123456
+password1
+password12
+qwerty123456
+# Padroes com ! no fim
+senha!
+senha123!
+Brasil!
+Flamengo!
+Jesus!
+admin!
+123456!
+1234567!
+12345678!
+# Padroes de numeros populares
+0000
+1111
+2222
+3333
+4444
+5555
+6666
+7777
+8888
+9999
+00000000
+11111111
+22222222
+33333333
+44444444
+55555555
+66666666
+77777777
+88888888
+99999999
+123123
+321321
+112233
+123321
+# Padroes de datas populares no BR
+01011990
+01011985
+01011980
+01011975
+01012000
+01012001
+01012002
+15031990
+25051989
+30121992
+# Padroes de apps/serviços
+netflix123
+Netflix123
+spotify123
+Spotify123
+amazon123
+Amazon123
+google123
+Google123
+facebook123
+Facebook123
+instagram123
+Instagram123
+tiktok123
+TikTok123
+youtube123
+YouTube123
+# Padroes de banco BR
+bradesco123
+itau123
+nubank123
+caixa123
+bb123
+inter123
+Bradesco123
+Itau123
+Nubank123
+# Padroes comuns empresas de telecom
+vivo123
+claro123
+net123
+tim123
+oi123
+nextel123
+# Padroes regionais
+saopaulo123
+riodejaneiro123
+bh123
+belohorizonte123
+fortaleza123
+salvador123
+recife123
+curitiba123
+manaus123
+brasilia123
+porto alegre
+portoalegre123
+# Extra compliant senhas
+Aa1234!
+Aa12345!
+Aa123456!
+Bb1234!
+Cc1234!
+# Numeros de celular DDD + padroes
+119999999
+218888888
+318888888
+419999999
+519999999
+619999999
+# Combinacoes especificas BR
+mudar123
+acesso123
+provisoria123
+padrao123
+temporaria123
+inicial123
+welcome123
+boas-vindas123
+# Padroes de datas curtas
+0101
+0601
+1201
+3112
+3101
+2812
+# Anos em padroes populares
+senha2020
+senha2021
+senha2022
+senha2023
+senha2024
+senha2025
+senha2026
+brasil2020
+brasil2021
+brasil2022
+brasil2023
+brasil2024
+brasil2025
+# Combinacoes de WiFi especificas BR
+wifi2024
+wifi2025
+minhawifi123
+minhawifi2024
+minharede2024
+wificasa2024
+# Padroes de celular + operadora
+vivocell
+clarocell
+timcell
+oicel
+netcell
+gvtcell
+# Senhas muito simples ainda usadas
+senha
+senha1
+senha12
+senha123
+senha1234
+senha12345
+senha123456
+senha1234567
+# Outros
+qazwsx123
+1qaz2wsx
+1qaz2wsx3edc
+zaq1zaq1
+abc!@#
+!@#abc
+!@#123
+!@#$%^
+123!@#
+!@#456
+# Padroes de celular nacional
+9999-9999
+8888-8888
+7777-7777
+1234-5678
+9876-5432
+# Senhas de games populares no BR
+minecraft123
+Minecraft123
+roblox123
+Roblox123
+freefire123
+FreeFire123
+valorant123
+Valorant123
+csgo123
+fortnite123
+Fortnite123
+LOL123
+lol123
+# Senhas de streaming
+netfl1x
+Netfl1x
+Netflix123
+netflix@123
+Netflix@123
+globoplay
+Globoplay
+globoplay123
+GloboPlay123
+prime123
+Prime123
+hbomax123
+HBOmax123
+HBO123
+disney+123
+Disney123
+starzplay123
+# Variantes simples de palavras pt
+amor
+Amor
+amor1
+amor12
+amor123
+amor1234
+casa
+Casa
+casa1
+casa12
+casa123
+família
+familia
+familia123
+Familia123
+meu
+meu123
+minha
+minha123
+vida
+vida1
+vida12
+vida123
+Vida123

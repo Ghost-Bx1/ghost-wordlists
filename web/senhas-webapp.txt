@@ -139,3 +139,155 @@ User@1234
 Pass@1234
 # Reuse de CNPJ/CPF
 # Gerados pelo tools/gerador.py com --cpf
+
+# --- Padroes de senhas de webapp BR expandido ---
+# E-commerce
+compras@123
+Compras@123
+loja@123
+Loja@123
+cliente@123
+Cliente@123
+vendas@123
+Vendas@123
+pedido@123
+Pedido@123
+entrega@123
+pagamento@123
+Pagamento@123
+boleto@123
+Boleto@123
+cartao@123
+Cartao@123
+pix@123
+Pix@123
+# Redes sociais
+social@123
+Social@123
+perfil@123
+Perfil@123
+usuario@123
+Usuario@123
+# Plataformas edu
+aluno@123
+Aluno@123
+professor@123
+Professor@123
+escola@123
+Escola@123
+educacao@123
+Educacao@123
+moodle@123
+Moodle@123
+# Saude / Hospital
+hospital@123
+Hospital@123
+medico@123
+Medico@123
+paciente@123
+Paciente@123
+saude@123
+Saude@123
+# Governo BR
+gov@123
+Gov@123
+cpf@123
+Cpf@123
+# Senhas com maiuscula min 1 + numero + especial (politica moderna)
+Flamengo@1
+Corinthians@1
+Palmeiras@1
+Santos@1
+Gremio@1
+Inter@1
+Atletico@1
+Cruzeiro@1
+Vasco@1
+Botafogo@1
+Fluminense@1
+Bahia@1
+# Padroes de CMS BR
+wordpress@123
+Wordpress@123
+joomla@123
+Joomla@123
+drupal@123
+Drupal@123
+# Padroes de API key / token fracas
+apikey
+Apikey
+apikey123
+ApiKey123
+token
+Token
+token123
+Token123
+secret
+Secret
+secret123
+Secret123
+key123
+Key123
+# Senhas de apps mobile
+app@123
+App@123
+mobile@123
+Mobile@123
+android@123
+Android@123
+iphone@123
+Iphone@123
+# Padroes de streaming BR
+netflix@123
+Netflix@123
+globoplay@123
+GloboPlay@123
+amazon@123
+Amazon@123
+hbo@123
+HBO@123
+disney@123
+Disney@123
+# Bancario BR
+banco@123
+Banco@123
+bradesco@123
+Bradesco@123
+itau@123
+Itau@123
+nubank@123
+Nubank@123
+caixa@123
+Caixa@123
+bb@123
+Bb@123
+inter@123
+Inter@123
+# Padroes de registro de dominio / hosting BR
+Registro@123
+registro@123
+hospedagem@123
+Hospedagem@123
+cpanel@123
+Cpanel@123
+whmcs@123
+Whmcs@123
+plesk@123
+Plesk@123
+# Padroes de email BR
+gmail@123
+Gmail@123
+outlook@123
+Outlook@123
+yahoo@123
+Yahoo@123
+hotmail@123
+Hotmail@123
+uol@123
+Uol@123
+ig@123
+Ig@123
+terra@123
+Terra@123
+bol@123
+Bol@123

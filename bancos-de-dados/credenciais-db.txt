@@ -78,3 +78,160 @@ root:Empresa@123
 admin:Empresa@123
 root:MySQL@2024
 admin:PostgreSQL@2024
+
+# --- Senhas de banco de dados expandidas ---
+# MySQL/MariaDB
+mysql
+Mysql
+mysql123
+Mysql123
+mysql@123
+MySQL@123
+mysql2024
+MySQL2024
+mariadb
+MariaDB
+mariadb123
+MariaDB123
+# PostgreSQL
+postgres
+Postgres
+postgres123
+Postgres123
+postgres@123
+Postgres@123
+postgresql
+PostgreSQL
+postgresql123
+PostgreSQL123
+# MongoDB
+mongo
+Mongo
+mongo123
+Mongo123
+mongo@123
+Mongo@123
+mongodb
+MongoDB
+mongodb123
+MongoDB123
+# Redis
+redis
+Redis
+redis123
+Redis123
+# Elasticsearch
+elastic
+Elastic
+elastic123
+Elastic123
+elasticsearch
+Elasticsearch
+elasticsearch123
+# SQL Server (MSSQL)
+mssql
+MSSQL
+mssql123
+MSSQL123
+sqlserver
+SQLServer
+sqlserver123
+SQLServer123
+sa@123
+SA@123
+# Oracle
+oracle
+Oracle
+oracle123
+Oracle123
+oracle@123
+Oracle@123
+system123
+System123
+# SQLite
+sqlite
+SQLite
+sqlite123
+# CassandraDB
+cassandra
+Cassandra
+cassandra123
+# InfluxDB
+influxdb
+InfluxDB
+influxdb123
+# Neo4j
+neo4j
+Neo4j
+neo4j123
+# DB2
+db2
+DB2
+db2@123
+DB2@123
+# Padroes de DBA BR
+dba@123
+Dba@123
+dba2024
+DBA2024
+dbadmin@123
+DBAdmin@123
+dbsuporte@123
+# Padroes comuns em banco de dados BR
+123456!db
+db@2024
+Db@2024
+database@123
+Database@123
+banco@123
+Banco@123
+dados@123
+Dados@123
+# Extra defaults comuns
+root@2024
+Root@2024
+admin@2024
+Admin@2024
+teste@db
+test@db
+dev@db
+Dev@db
+homolog@db
+prod@db
+Prod@db
+staging@db
+# Senhas de DBA terceirizados
+Terceiros@123
+terceiros@123
+Outsourced@123
+outsourced@123
+# Credenciais de aplicacao comuns
+app@db
+App@db
+app123@db
+webapp@db
+WebApp@db
+# Conexao JDBC / ODBC
+jdbc@123
+odbc@123
+# Padroes de conexao string
+server=;database=;password=
+# Chaves de criptografia fracas
+secretkey
+SecretKey
+secretkey123
+SecretKey123
+encryptionkey
+EncryptionKey
+encryptionkey123
+aes128key
+aes256key
+# Padroes de backup
+backup@123
+Backup@123
+bkp@123
+Bkp@123
+dump@123
+Dump@123
+restore@123
+Restore@123

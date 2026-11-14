@@ -1,0 +1,513 @@
+# Senhas relacionadas a musica e cultura popular brasileira
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wordlists
+
+# --- Sertanejo ---
+sertanejo
+Sertanejo
+sertanejo123
+Sertanejo123
+sertanejo@123
+Sertanejo@123
+gustavo lima
+gustavolima
+GustLima
+gustavolima123
+GustLima123
+marilia
+Marilia
+marilamendoca
+Mariliamendoca
+marilamendoca123
+zeze di camargo
+zezedc
+luciano
+Luciano
+luciano123
+chitaozinho
+Chitaozinho
+xororo
+Xororo
+chitaozinho123
+victor
+Victor
+leo
+Leo
+hugo
+Hugo
+victor e leo
+victor leo
+victorleo
+VictorLeo
+victorleo123
+henrique
+Henrique
+juliao
+Juliano
+henrique e juliao
+henriquejuliao
+HenriqueJuliao
+henrique123
+juliao123
+jorge e mateus
+jorgemateus
+JorgeMateus
+jorge
+mateus
+mateus123
+marcos e belutti
+marcosbelutti
+Marcos
+belutti
+Belutti
+belutti123
+pedro e thiago
+pedrothiago
+PedroThiago
+israel novaes
+israelnovaes
+IsraelNovaes
+israel123
+bar
+# --- Funk ---
+funk
+Funk
+funk123
+Funk123
+funk@123
+Funk@123
+mc
+MC
+mc123
+MC123
+baile
+Baile
+baile123
+Baile123
+bonde
+Bonde
+bonde123
+Bonde123
+favela
+Favela
+favela123
+Favela123
+mano
+Mano
+mano123
+Mano123
+putaria
+kondzilla
+KondZilla
+# --- Pagode / Samba ---
+pagode
+Pagode
+pagode123
+Pagode123
+pagode@123
+Pagode@123
+samba
+Samba
+samba123
+Samba123
+sambando
+sambando123
+exaltasamba
+ExaltaSamba
+exaltasamba123
+thiaguinho
+Thiaguinho
+thiaguinho123
+Thiaguinho123
+so pra contrariar
+sopracontrariar
+SoPraContrariar
+thiaguinho123456
+# --- Axé ---
+axe
+Axe
+axe123
+Axe123
+olodum
+Olodum
+olodum123
+claudinha
+claudinha123
+claudinha@123
+ivete
+Ivete
+ivete123
+Ivete123
+ivetesangalo
+IveteSangalo
+ivetesangalo123
+daniela mercury
+danielamercury
+DanielaMercury
+danielamercury123
+carnaval bahia
+carnavalbahia
+CarnavalBahia
+# --- Forró ---
+forro
+Forró
+forro123
+Forro123
+forro@123
+xote
+Xote
+xote123
+lusifer
+luiz gonzaga
+luizgonzaga
+LuizGonzaga
+gonzagao
+Gonzagao
+gonzagao123
+Gonzagao123
+gonzaga
+Gonzaga
+gonzaga123
+assai
+# --- MPB ---
+mpb
+MPB
+mpb123
+MPB123
+gilberto gil
+gilbertogil
+GilbertoGil
+gilberto
+gil
+Gil
+Gil123
+caetano
+Caetano
+caetano123
+Caetano123
+caetanoveloso
+CaetanoVeloso
+caetanoveloso123
+chico buarque
+chicobuarque
+ChicoBuarque
+chicobuarque123
+legiãourbana
+legiaourbana
+LegiaoUrbana
+legiaourbana123
+renato russo
+renatoRusso
+RenatoRusso
+renatorusso123
+RenatoRusso123
+# --- Rock Nacional ---
+rock
+Rock
+rock123
+Rock123
+rock@123
+metalica
+metallica
+Metallica
+metallica123
+Metallica123
+nirvana
+Nirvana
+nirvana123
+Nirvana123
+sepultura
+Sepultura
+sepultura123
+Sepultura123
+max cavalera
+maxcavalera
+MaxCavalera
+maxcavalera123
+angra
+Angra
+angra123
+Angra123
+helloween
+Helloween
+helloween123
+terra santa
+terrasanta
+TerSanta
+# --- Pop Nacional ---
+anitta
+Anitta
+anitta123
+Anitta123
+anitta@123
+Anitta@123
+ludmilla
+Ludmilla
+ludmilla123
+Ludmilla123
+pabllo vittar
+pabllo
+Pabllo
+pabllo123
+Pabllo123
+pablovittar
+PablloVittar
+pabllo vittar123
+Wesley Safadao
+safadao
+Safadao
+safadao123
+Safadao123
+wesleysafadao
+WesleySafadao
+wesleysafadao123
+# --- Artistas classicos BR ---
+cazuza
+Cazuza
+cazuza123
+Cazuza123
+raul
+Raul
+raulseixas
+RaulSeixas
+raulseixas123
+RaulSeixas123
+legião
+legiao
+renato
+renato russo
+# --- TV e Entretenimento ---
+globo
+Globo
+globo123
+Globo123
+globo@123
+Globo@123
+record
+Record
+record123
+Record123
+sbt
+SBT
+sbt123
+SBT123
+band
+Band
+band123
+Band123
+netflix
+Netflix
+netflix123
+Netflix123
+globoplay
+GloboPlay
+globoplay123
+GloboPlay123
+tvglobo
+TVGlobo
+tvglobo123
+TVGlobo123
+# Novela BR
+novela
+Novela
+novela123
+Novela123
+globonews
+GloboNews
+sportv
+SporTV
+sportv123
+SporTV123
+multishow
+Multishow
+multishow123
+# --- Personagens / Cultura ---
+chaves
+Chaves
+chaves123
+Chaves123
+chapolin
+Chapolin
+chapolin123
+Chapolin123
+quico
+Quico
+quico123
+Quico123
+Chespirito
+chespirito
+chespirito123
+Chespirito123
+# --- Cinema / Series BR ---
+tropa de elite
+tropadeelite
+TropaDeElite
+tropadeelite123
+TropaDeElite123
+cidade de deus
+cidadededeus
+CidadeDesDeus
+vai que cola
+vai que cola123
+tapas e beijos
+tapasbeijos
+# --- Comida / Culinaria ---
+churrasco
+Churrasco
+churrasco123
+Churrasco123
+feijoada
+Feijoada
+feijoada123
+Feijoada123
+pao de queijo
+paodequeijo
+PaoDeQueijo
+paodequeijo123
+acaraje
+Acaraje
+acaraje123
+Acaraje123
+coxinha
+Coxinha
+coxinha123
+Coxinha123
+pao com ovo
+pao123
+pizza
+Pizza
+pizza123
+Pizza123
+lasanha
+Lasanha
+hamburguer
+Hamburguer
+hamburguer123
+acai
+Acai
+acai123
+Acai123
+guarana
+Guarana
+guarana123
+Guarana123
+churrascaria
+Churrascaria
+churrascaria123
+# --- Carnaval ---
+carnaval
+Carnaval
+carnaval123
+Carnaval123
+carnaval2024
+Carnaval2024
+carnaval2025
+Carnaval2025
+bloco
+Bloco
+bloco123
+Bloco123
+fantasia
+Fantasia
+fantasia123
+Fantasia123
+trio eletrico
+trioeletrico
+TrioEletrico
+trioeletrico123
+# --- Festas Juninas ---
+festajunina
+FestaJunina
+festajunina123
+FestaJunina123
+festa junina
+quadrilha
+Quadrilha
+quadrilha123
+Quadrilha123
+forrozeiro
+Forrozeiro
+forrozeiro123
+# --- Nordeste ---
+nordeste
+Nordeste
+nordeste123
+Nordeste123
+nordestino
+Nordestino
+nordestino123
+Nordestino123
+# --- Sul ---
+sul
+gaúcho
+gaucho
+Gaucho
+gaucho123
+Gaucho123
+galpao
+Galpao
+galpao123
+mate
+Mate
+mate123
+# --- São Paulo ---
+saopaulo
+SaoPaulo
+saopaulo123
+SaoPaulo123
+paulistano
+Paulistano
+paulistano123
+# --- Rio de Janeiro ---
+riodejaneiro
+RioDeJaneiro
+rio123
+Rio123
+carioca
+Carioca
+carioca123
+Carioca123
+# --- Favela / Periferia ---
+quebrada
+Quebrada
+quebrada123
+Quebrada123
+morro
+Morro
+morro123
+Morro123
+barraco
+Barraco
+barraco123
+# --- Gírias populares ---
+mano
+Mano
+mano123
+parça
+parca
+parca123
+Parca123
+mermao
+Mermao
+mermao123
+Mermao123
+chero
+Chero
+vacilão
+vacilao
+Vacilao
+vacilao123
+ligado
+Ligado
+ligado123
+# Extra
+Brazuca
+brazuca
+brazuca123
+Brazuca123
+tropicalismo
+Tropicalismo
+bossa nova
+bossanova
+BossaNova
+bossanova123
+BossaNova123

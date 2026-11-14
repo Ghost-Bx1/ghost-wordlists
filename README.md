@@ -16,6 +16,32 @@
 
 Colecao de wordlists e ferramentas de brute force focadas no contexto brasileiro.
 WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
+**11.000+ entradas unicas**, incluindo mega wordlist deduplicada.
+
+---
+
+## Contagem de Entradas
+
+| Arquivo | Entradas |
+|---------|----------|
+| `misto/top10k-brasil.txt` | **11.762** (mega deduplicada) |
+| `wifi/nomes-com-ano.txt` | 5.776 |
+| `wifi/brasil-senhas-comuns.txt` | 626 |
+| `wifi/religiao-brasil.txt` | 484 |
+| `wifi/nomes-brasileiros.txt` | 667 |
+| `wifi/futebol-brasil.txt` | 394 |
+| `wifi/musica-cultura-br.txt` | 488 |
+| `wifi/esportes-br.txt` | 371 |
+| `wifi/patterns/datas-br.txt` | 548 |
+| `wifi/provedores/todos-isps-br.txt` | 405 |
+| `corporativo/senhas-corporativas.txt` | 459 |
+| `misto/vazamentos-br.txt` | 491 |
+| `misto/leet-substitutions-br.txt` | 315 |
+| `misto/senhas-numericas-br.txt` | 686 |
+| `misto/top-br-combinado.txt` | 413 |
+| `servicos/senhas-servicos.txt` | 283 |
+| `web/senhas-webapp.txt` | 261 |
+| `bancos-de-dados/credenciais-db.txt` | 197 |
 
 ---
 
@@ -24,10 +50,15 @@ WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
 ```
 ghost-wordlists/
 ├── wifi/                        # Senhas de redes WiFi
-│   ├── brasil-senhas-comuns.txt    # Top senhas usadas no Brasil
-│   ├── nomes-brasileiros.txt       # Nomes proprios como senha
-│   ├── futebol-brasil.txt          # Times, jogadores, expressoes
+│   ├── brasil-senhas-comuns.txt    # Top senhas usadas no Brasil (626)
+│   ├── nomes-brasileiros.txt       # Nomes proprios como senha (667)
+│   ├── nomes-com-ano.txt           # Nomes + anos 1980-2025 (5.776)
+│   ├── futebol-brasil.txt          # Times, jogadores, expressoes (394)
+│   ├── religiao-brasil.txt         # Senhas religiosas - evang/catol/umbanda (484)
+│   ├── musica-cultura-br.txt       # Sertanejo, funk, pagode, MPB, cultura (488)
+│   ├── esportes-br.txt             # MMA, volei, natacao, tenis, eSports (371)
 │   ├── provedores/
+│   │   ├── todos-isps-br.txt       # Todos ISPs e roteadores BR (405)
 │   │   ├── claro-net.txt           # Claro/NET defaults
 │   │   ├── vivo-gvt.txt            # Vivo/GVT defaults
 │   │   ├── tim.txt                 # TIM defaults
@@ -35,15 +66,23 @@ ghost-wordlists/
 │   │   ├── intelbras.txt           # Roteadores Intelbras
 │   │   └── outros-isps.txt         # ISPs regionais e outros
 │   └── patterns/
-│       └── datas-br.txt            # Padroes de datas dd/mm/yyyy
+│       └── datas-br.txt            # Padroes de datas dd/mm/yyyy (548)
+├── corporativo/                 # Senhas corporativas / ambientes empresa
+│   └── senhas-corporativas.txt     # Mudar@, Acesso@, mes+ano, TI, RH (459)
+├── misto/                       # Compilados e cross-categorias
+│   ├── top10k-brasil.txt           # MEGA wordlist deduplicada 11k+ (11.762)
+│   ├── top-br-combinado.txt        # Combinado de top categorias (413)
+│   ├── vazamentos-br.txt           # Padroes de vazamentos BR (491)
+│   ├── leet-substitutions-br.txt   # Leet speak PT-BR (315)
+│   └── senhas-numericas-br.txt     # Numeros, PINs, anos, CEPs (686)
 ├── servicos/                    # SSH, FTP, Telnet, SMTP, etc.
 │   ├── usuarios-unix.txt           # Usuarios padrao em Linux/Unix
-│   └── senhas-servicos.txt         # Senhas padrao de servicos e hardware
+│   └── senhas-servicos.txt         # Senhas padrao de servicos e hardware (283)
 ├── web/                         # Aplicacoes web / CMS
 │   ├── usuarios-web.txt            # Usuarios de CMS, paineis, intranet
-│   └── senhas-webapp.txt           # Senhas fracas em ambientes web brasileiros
+│   └── senhas-webapp.txt           # Senhas fracas em ambientes web brasileiros (261)
 ├── bancos-de-dados/             # MySQL, PostgreSQL, MongoDB, etc.
-│   └── credenciais-db.txt          # Defaults formato usuario:senha
+│   └── credenciais-db.txt          # Defaults formato usuario:senha (197)
 └── tools/
     ├── gerador.py                  # Gerador de wordlists personalizadas
     ├── ataque-web.py               # Brute force HTTP (POST/Basic/WordPress)
