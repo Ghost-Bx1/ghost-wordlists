@@ -1,0 +1,103 @@
+# Senhas padrao - Outros ISPs e Provedores Regionais do Brasil
+# Algar, Sumicity, Unifique, Brisanet, Desktop, Copel, Ligga, NossaNet e outros
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Algar Telecom (MG, SP, GO, MT, MS)
+algar123
+algar1234
+algartelecom
+algarwifi
+algar@123
+algar2024
+algar2025
+
+# Sumicity (Parana, Sao Paulo)
+sumicity123
+sumicity@123
+sumicitywifi
+sumicity2024
+
+# Unifique (Santa Catarina, RS)
+unifique123
+unifique@123
+unifiquewifi
+unifique2024
+
+# Brisanet (Nordeste)
+brisanet123
+brisanet@123
+brisanetwifi
+brisanet2024
+
+# Desktop (Nordeste, PE)
+desktop123
+desktop@123
+desktopwifi
+
+# Copel Telecom (Parana)
+copel123
+copel@123
+copeltelecom
+copelwifi
+
+# Ligga (ex-Copel)
+ligga123
+ligga@123
+liggawifi
+ligga2024
+ligga2025
+
+# NossaNet / Net Virtua regionais
+nossanet123
+nossawifi
+internet123
+
+# WDC Networks / Alloha Fibra
+alloha123
+alloha@123
+allohawifi
+alloha2024
+
+# V.tal (infraestrutura)
+vtal123
+vtal@123
+
+# Provedores genericos de interior (ISPs pequenos)
+# Formato mais comum: nome_provedor + 123
+provedor123
+fibra@123
+minhafibra
+fibracasa
+fibrawifi
+internet@casa
+wificasa123
+minha_net123
+minharede
+minharede123
+provedor@2024
+
+# Roteadores TP-Link (muito usado por ISPs regionais)
+# SSID: TP-Link_XXXXXX -> senha impressa
+1234567890
+admin
+tp-link
+tplink123
+tplink@123
+TP-Link@123
+# D-Link
+dlink
+d-link123
+dlink@123
+# Multilaser (marca brasileira barata)
+multilaser
+multi123
+multi@123
+multilaser123
+# Positivo (marca brasileira)
+positivo123
+positivo@123
+positivowifi
+# Elsys (chip 4G)
+elsys123
+elsys@123
+elsyswifi

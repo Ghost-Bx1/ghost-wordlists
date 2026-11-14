@@ -1,0 +1,186 @@
+# Senhas padrao de servicos (SSH, FTP, Telnet, RDP, VNC, SMB)
+# Compilado de defaults de fabricantes e vazamentos
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Universais
+password
+Password
+PASSWORD
+password1
+Password1
+password123
+Password123
+pass
+Pass
+pass123
+Pass123
+passwd
+Passwd
+123456
+1234567
+12345678
+123456789
+1234567890
+123456789a
+1234
+12345
+admin
+Admin
+ADMIN
+admin1
+Admin1
+admin123
+Admin123
+admin@123
+Admin@123
+administrator
+Administrator
+# Vazios / triviais
+(empty)
+
+# Fabricantes de hardware
+# Cisco
+cisco
+Cisco
+cisco123
+default
+# Juniper
+juniper
+Juniper
+juniper1
+# Huawei
+huawei
+Huawei
+Huawei@123
+admin@huawei
+# ZTE
+zte
+ZTE
+zte123
+# Mikrotik
+mikrotik
+Mikrotik
+# Netgear
+netgear
+Netgear
+netgear1
+# ASUS
+asus
+Asus
+asus123
+# TP-Link
+tplink
+TPLink
+tp-link
+# D-Link
+dlink
+DLink
+d-link
+# Fortinet
+fortinet
+Fortinet
+# Palo Alto
+paloalto
+PaloAlto
+panorama
+# Check Point
+checkpoint
+CheckPoint
+# F5
+default
+f5labs
+# Ubiquiti
+ubnt
+UBNT
+ubiquiti
+# VMware
+vmware
+VMware
+vmware1
+changeme
+# AWS / Cloud defaults
+amazon
+Amazon
+changeme123
+# Linux distributions
+ubuntu
+Ubuntu
+debian
+Debian
+centos
+CentOS
+fedora
+Fedora
+raspberry
+Raspberry
+# Windows / RDP
+Welcome1
+Welcome!1
+P@ssw0rd
+P@ssword1
+P@ssword123
+Passw0rd
+Passw0rd!
+Admin@123
+Admin1234
+Admin12345
+Adm1n
+Adm1n!23
+# Databases
+root
+mysql
+oracle
+Oracle
+postgres
+Postgres
+sa
+Sa
+# IoT / Embarcados
+888888
+666666
+support
+Support
+supervisor
+Supervisor
+super
+Super
+guest
+Guest
+# Senhas de VNC
+vnc
+vncpass
+vnc123
+# SNMP communities
+public
+private
+community
+snmp
+monitor
+# Telnet defaults
+1234
+1234567890
+password
+# FTP
+ftp
+ftppass
+anonymous
+# SSH generico
+ssh123
+ssh@123
+# Senhas fracas tipicas de ambiente corporativo Brasil
+Senha@123
+Senha@1234
+Senha@2024
+Senha@2025
+Mudar@123
+Mudar@1234
+Trocar@123
+Acesso@123
+Acesso@2024
+Empresa@123
+Empresa@2024
+Suporte@123
+Suporte@2024
+Usuario@123
+Inicial@123
+Primeiro@123

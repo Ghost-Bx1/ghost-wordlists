@@ -1,0 +1,141 @@
+# Senhas fracas em aplicacoes web brasileiras e internacionais
+# Para uso em auditorias autorizadas de portais, CMS, intranet, etc.
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Top vazamentos brasileiros (Have I Been Pwned + BD BR)
+123456
+1234567
+12345678
+123456789
+1234567890
+123456789a
+senha
+senha123
+senha1234
+senha12345
+senha@123
+Senha@123
+Senha123
+SEnha@123
+# Top internacionais
+password
+Password
+password1
+Password1
+password123
+Password123
+qwerty
+qwerty123
+abc123
+iloveyou
+monkey
+dragon
+master
+letmein
+welcome
+# Padroes corporativos fracos Brasil
+Acesso@123
+Acesso123
+Acesso2024
+Usuario@123
+Usuario123
+Inicial@123
+Inicial123
+Mudar@123
+Mudar123
+Troca@123
+Empresa@123
+Empresa2024
+Empresa@2024
+Ti@123
+Suporte@123
+Suporte123
+Helpdesk@123
+Gerente@123
+Admin@2024
+Admin@2025
+# Admin e variantes
+admin
+Admin
+admin1
+Admin1
+admin123
+Admin123
+admin1234
+Admin@1234
+administrator
+Administrator
+# WordPress especificos
+wordpress
+WordPress
+wp123
+Wp@123
+# Magento
+magento
+Magento123
+Magento@123
+# Joomla
+joomla
+Joomla123
+# cPanel / WHM
+cpanel123
+whm123
+hosting123
+# Phishing / Reuso de senha fraca
+teste
+Teste
+test123
+Test123
+teste123
+Teste123
+# PIN patterns (formularios numericos)
+1234
+12345
+123456
+000000
+111111
+000000
+999999
+1111
+0000
+# Senhas sazonais
+Janeiro@2024
+Fevereiro@2024
+Marco@2024
+Abril@2024
+Maio@2024
+Junho@2024
+Julho@2024
+Agosto@2024
+Setembro@2024
+Outubro@2024
+Novembro@2024
+Dezembro@2024
+Janeiro@2025
+Fevereiro@2025
+Marco@2025
+Abril@2025
+Maio@2025
+Junho@2025
+Julho@2025
+Agosto@2025
+Setembro@2025
+Outubro@2025
+Novembro@2025
+Dezembro@2025
+# Variantes com @ como a
+P@ssword
+P@ssw0rd
+P@ss123
+p@ss123
+S3nha@123
+# Variantes comuns de politica de senha fraca (1 maiuscula + 1 numero + 1 especial)
+Abc@1234
+Abc@12345
+Qwerty@1
+Qwerty@12
+Test@1234
+User@1234
+Pass@1234
+# Reuse de CNPJ/CPF
+# Gerados pelo tools/gerador.py com --cpf

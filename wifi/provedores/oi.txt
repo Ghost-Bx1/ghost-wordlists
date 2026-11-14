@@ -1,0 +1,40 @@
+# Senhas padrao - Oi
+# Roteadores: Mitrastar, ADB, ZTE, Huawei
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+oi123456
+oi1234567
+oi12345678
+oiwifi
+oi_wifi
+oi.wifi
+oicasa
+oi2024
+oi2025
+oi2026
+oi@2024
+oi@2025
+# Mitrastar DSL-100HN-T1-NV - Oi Velox
+# SSID: OI_FIBRA_XXXXXX
+oifibra
+oi_fibra
+fibra123
+# ADB P.DG A4001N - Oi
+oivelox
+velox123
+# ZTE ZXHN H267A / H288A - Oi Fibra
+oi_adm
+zteoi
+# Huawei HG655b - Oi
+huaweioi
+# Padroes tecnicos Oi
+senha@oi
+wifioi
+minhaoi
+casaoi
+oiinternet
+oi_velox
+veloxwifi
+# Oi Hibrido (fibra + 4G)
+oihib123
+hibridooi

@@ -1,0 +1,62 @@
+# Senhas padrao - Claro / NET (Claro)
+# Modems: Technicolor, Arris, Nokia, Sagemcom, Motorola
+# Padroes observados em auditorias autorizadas
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Defaults de fabrica Claro/NET
+claro123
+claro1234
+claro12345
+claro123456
+net12345
+net123456
+net1234567
+clarowifi
+netwifi
+claro_wifi
+net_wifi
+claronettv
+netcombinado
+clarotv123
+# Baseados no SSID NET_XXXXXX (ultimos 6 do MAC)
+# Formato: NET_[A-F0-9]{6} -> senha normalmente = SSID sem prefixo ou ultimos 8 chars MAC
+# Exemplos de formatos de senha Claro:
+12345678
+87654321
+00000000
+11111111
+# Technicolor TG789 / TG582 - Claro
+1234567890
+adminadmin
+# Arris TG1672 - NET/Claro
+Coaxial1
+comcast
+1234
+admin
+password
+# Nokia G-240G-C / G-010G-P - Claro Fibra
+Claro@2024
+Claro@2025
+Claro@2026
+Claro@123
+ClaroNet1
+claro2024
+claro2025
+# Sagemcom F@ST - Claro/NET
+sagemcom
+claro_adm
+# Padroes com ultimos digitos do serial
+claro00000
+claro11111
+claro22222
+claro55555
+# Senhas comuns configuradas por tecnicos Claro
+senha@claro
+wificlaro
+claro.wifi
+claro.net
+minhaclaro
+minharet
+minhanet1
+# SSID derivados NET_XXXXXX -> senha 8 digitos hex do MAC
+# Script de geracao no tools/gerador.py

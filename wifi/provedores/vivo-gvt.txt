@@ -1,0 +1,49 @@
+# Senhas padrao - Vivo / GVT (Vivo)
+# Modems: Askey, ZTE, Huawei, Sagemcom, Nokia
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Defaults Vivo
+vivo1234
+vivo12345
+vivo123456
+vivo1234567
+vivowifi
+vivo_wifi
+vivo.wifi
+vivofibra
+vivocasa
+vivo2024
+vivo2025
+vivo2026
+gvt12345
+gvt123456
+gvtwifi
+gvtfibra
+# ZTE F670L / F680 - Vivo Fibra (mais comum em 2024-2026)
+# SSID: VIVO-XXXXXX -> senha: 8 ultimas do serial ou MAC
+vivo@2024
+vivo@2025
+vivo@2026
+# Askey RFT9505VW - Vivo Box
+vivo1111
+vivo0000
+# Huawei HG8245H / EG8245H - Vivo
+HuaweiHome
+huawei123
+# Padroes com numero de conta/contrato
+# Tecnicos frequentemente usam: vivo + 8 digitos do CPF do cliente
+# Senhas comuns configuradas por tecnicos
+senha@vivo
+wifivivo
+minhavivo
+casavivo
+fibravivo
+vivofiber
+fibra.vivo
+internet.vivo
+# ZTE padrao
+admin@vivo
+1234567890
+# Sagemcom - Vivo
+sagemvivo
+vivo_adm

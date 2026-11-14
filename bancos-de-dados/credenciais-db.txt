@@ -1,0 +1,80 @@
+# Credenciais padrao de bancos de dados
+# Formato: usuario:senha (uma por linha, separado por :)
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# MySQL / MariaDB
+root:
+root:root
+root:password
+root:mysql
+root:toor
+root:admin
+root:123456
+root:Password1
+root:MySQL@123
+mysql:mysql
+mysql:password
+mysql:123456
+admin:admin
+admin:password
+admin:123456
+# PostgreSQL
+postgres:
+postgres:postgres
+postgres:password
+postgres:123456
+postgres:admin
+postgres:PostgreSQL
+postgres:Postgres@123
+# Microsoft SQL Server
+sa:
+sa:sa
+sa:password
+sa:Password1
+sa:admin
+sa:123456
+sa:SQL@2024
+# MongoDB
+admin:
+admin:admin
+admin:password
+admin:123456
+mongoadmin:mongoadmin
+root:root
+# Redis (sem auth por default)
+# default: sem senha
+# CouchDB
+admin:admin
+admin:password
+# Cassandra
+cassandra:cassandra
+cassandra:password
+# Oracle
+system:oracle
+system:manager
+sys:change_on_install
+dbsnmp:dbsnmp
+# Elasticsearch (sem auth por default em versoes antigas)
+elastic:
+elastic:changeme
+elastic:elastic
+elastic:password
+# InfluxDB
+admin:admin
+admin:password
+# Neo4j
+neo4j:neo4j
+neo4j:password
+# SQLite (arquivo local - nao tem credenciais)
+# H2 (Java)
+sa:
+sa:sa
+# Senhas comuns configuradas em ambientes brasileiros
+root:Senha@123
+root:Acesso@123
+admin:Senha@123
+admin:Acesso@123
+root:Empresa@123
+admin:Empresa@123
+root:MySQL@2024
+admin:PostgreSQL@2024

@@ -1,0 +1,46 @@
+# Senhas padrao - Roteadores Intelbras
+# Modelos: W4-300F, RF 301K, ACtion RG1200, ACtion A1200, MX 4G, ACtion RF1200
+# Marca brasileira, amplamente usada por ISPs regionais e pequenas operadoras
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+# Defaults de fabrica Intelbras
+intelbras
+Intelbras
+intelbras1
+intelbras123
+intelbras@123
+# ACtion RG1200 / RF1200 - muito comum em provedores regionais
+# SSID: Intelbras-XXXXXX -> senha impressa na etiqueta, formato numerico 8-10 digitos
+admin
+Admin
+admin123
+admin1234
+admin@123
+# W4-300F / W5-1200F
+1234567890
+12345678
+password
+Senha@123
+senha@123
+# ACtion A1200 / A2500 - ISPs de interior
+intelbras2024
+intelbras2025
+# RF 301K / RF 150
+wifi@intelbras
+wifiintelbras
+# Defaults de ISPs que usam Intelbras
+# MX 4G (roteador rural/4G)
+internet123
+provedor
+meuisp
+# Padroes de provedores regionais com Intelbras
+# Muitos ISPs de interior configuram: nome_do_provedor + 123
+provedor123
+fibra123
+fibra2024
+regional123
+# Outros modelos
+intelbras@2024
+intelbras@2025
+Intelbras@123
+Intelbras2024

@@ -1,0 +1,121 @@
+# Usuarios padrao em aplicacoes web (CMS, paineis, frameworks)
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+admin
+administrator
+root
+user
+test
+demo
+guest
+manager
+webmaster
+master
+super
+superuser
+superadmin
+sa
+info
+mail
+support
+help
+helpdesk
+staff
+moderator
+mod
+editor
+author
+contributor
+viewer
+operator
+deploy
+devops
+dev
+developer
+api
+apiuser
+service
+serviceaccount
+system
+bot
+automation
+monitor
+monitoring
+backup
+backupadmin
+readonly
+readonlyuser
+# CMS especificos
+# WordPress
+wp-admin
+wordpress
+wpadmin
+# Joomla
+joomla
+joomlaadmin
+# Drupal
+drupal
+drupaladmin
+# Magento
+magento
+magentouser
+# PrestaShop
+prestashop
+# WHMCS / cPanel
+cpanel
+whm
+whmcs
+reseller
+# Painel PHPMyAdmin
+phpmyadmin
+pma
+# Grafana
+grafana
+grafanaadmin
+# Jenkins
+jenkins
+jenkinsuser
+# GitLab / Gitea
+git
+gitlab
+gitea
+# Portainer / Docker
+portainer
+docker
+# Zabbix / Nagios / Checkmk
+zabbix
+nagios
+checkmk
+# ELK Stack
+elastic
+kibana
+logstash
+# Confluence / Jira
+confluence
+jira
+atlassian
+# SonarQube
+sonar
+sonarqube
+# Moodle
+moodle
+moodleadmin
+# Redmine
+redmine
+# phpBB
+phpbb
+# Roundcube / Webmail
+webmail
+roundcube
+# Brasil especificos
+usuario
+administrador
+suporte
+gerente
+operador
+desenvolvedor
+analista
+ti
+helpdesk
+supervisor
+diretor

@@ -1,0 +1,38 @@
+# Senhas padrao - TIM (Telecom Italia Mobile)
+# Roteadores: Technicolor, D-Link, ZTE
+# Ghost-Bx1 | github.com/Ghost-Bx1/ghost-wifi-wordlists
+
+tim12345
+tim123456
+tim1234567
+timwifi
+tim_wifi
+tim.wifi
+timcasa
+tim2024
+tim2025
+tim2026
+tim@2024
+tim@2025
+# TIM Vivo (pos-fusao)
+timvivo
+timvivo123
+# Technicolor - TIM
+technicolor
+tim@admin
+# D-Link DIR-819 / DIR-825 - TIM
+dlinkwifi
+1234567890
+admin
+# ZTE - TIM
+ztewifi
+tim123
+# Padroes configurados por tecnicos TIM
+senha@tim
+wifitim
+minhatim
+casatim
+timinternet
+timfibra
+tim_fibra
+internettim
