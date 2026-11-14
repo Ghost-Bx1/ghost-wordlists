@@ -16,7 +16,7 @@
 
 Colecao de wordlists e ferramentas de brute force focadas no contexto brasileiro.
 WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
-**11.000+ entradas unicas**, incluindo mega wordlist deduplicada.
+**57.000+ entradas unicas**, incluindo mega wordlist deduplicada com fontes externas integradas.
 
 ---
 
@@ -24,9 +24,11 @@ WiFi, servicos (SSH/FTP/Telnet), aplicacoes web, bancos de dados e mais.
 
 | Arquivo | Entradas |
 |---------|----------|
-| `misto/top10k-brasil.txt` | **11.762** (mega deduplicada) |
+| `misto/top10k-brasil.txt` | **57.934** (mega deduplicada) |
+| `misto/senhas-externas-br.txt` | 37.972 (knxbrenno, andreyoshimura, wpshield, SecLists-PT) |
+| `misto/top-globais.txt` | 12.242 (SecLists top-10k, 500worst, pwdb1k, rockyou-5k) |
 | `wifi/nomes-com-ano.txt` | 5.776 |
-| `wifi/brasil-senhas-comuns.txt` | 626 |
+| `wifi/brasil-senhas-comuns.txt` | 691 |
 | `wifi/religiao-brasil.txt` | 484 |
 | `wifi/nomes-brasileiros.txt` | 667 |
 | `wifi/futebol-brasil.txt` | 394 |
@@ -70,7 +72,9 @@ ghost-wordlists/
 ├── corporativo/                 # Senhas corporativas / ambientes empresa
 │   └── senhas-corporativas.txt     # Mudar@, Acesso@, mes+ano, TI, RH (459)
 ├── misto/                       # Compilados e cross-categorias
-│   ├── top10k-brasil.txt           # MEGA wordlist deduplicada 11k+ (11.762)
+│   ├── top10k-brasil.txt           # MEGA wordlist deduplicada 57k+ (57.934)
+│   ├── senhas-externas-br.txt      # Fontes BR externas integradas (37.972)
+│   ├── top-globais.txt             # SecLists top + RockYou-5k (12.242)
 │   ├── top-br-combinado.txt        # Combinado de top categorias (413)
 │   ├── vazamentos-br.txt           # Padroes de vazamentos BR (491)
 │   ├── leet-substitutions-br.txt   # Leet speak PT-BR (315)
@@ -179,15 +183,6 @@ john hash.txt --wordlist=web/senhas-webapp.txt
 # Medusa
 medusa -H alvos.txt -U servicos/usuarios-unix.txt -P servicos/senhas-servicos.txt -M ftp
 ```
-
----
-
-## Contribuicao e Adicoes
-
-Para adicionar wordlists:
-1. Coloque no diretorio correto (`wifi/`, `servicos/`, `web/`, `bancos-de-dados/`)
-2. Adicione comentario de cabecalho com `# Descricao | Ghost-Bx1`
-3. Use o `tools/gerador.py --combinar` para mesclar e deduplicar
 
 ---
 
